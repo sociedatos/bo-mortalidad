@@ -3,21 +3,21 @@
 
 import io
 import sys
+import itertools
 import unidecode
 
 import numpy as np
 import pandas as pd
 
 from bs4 import BeautifulSoup
-from itertools import chain, product
 
 import perkins
 import perkins.requests
 import perkins.input.snis
 
-
+YEAR = '2021'
 BASE_URL = 'https://estadisticas.minsalud.gob.bo'
-URL = BASE_URL + '/Reportes_Dinamicos/WF_Reporte_Gral_2021.aspx'
+URL = BASE_URL + '/Reportes_Dinamicos/WF_Reporte_Gral_{}.aspx'.format(YEAR)
 
 FORMAT_COLUMNS = [
     (
@@ -78,33 +78,41 @@ CAT_AGE_MAP = dict(itertools.chain(*[
 
 def fetch_data(dept_code):
     # Primer request
-    req = perkins.requests.do_request(URL, timeout=60, proxies=proxy)
+    req = perkins.requests.do_request(
+        URL,
+        timeout=60,
+        proxies=proxy,
+        headers=perkins.DEFAULT_HEADERS,
+        data={}
+    )
     soup = BeautifulSoup(req.content, 'html.parser')
 
     cookies = req.headers['Set-Cookie']
     cookies = [cookie.split(';')[0] for cookie in cookies.split(',')]
 
+    FORM_DATA['ctl00$MainContent$DDL_sedes'] = dept_code
+
     # Form 302: Vigilancia Epidemiologica
-    soup = process_request(URL, soup, cookies, {
+    soup = perkins.input.snis.process_request(URL, soup, cookies, {
         **FORM_DATA,
         '__EVENTTARGET': 'ctl00$MainContent$DDL_form',
     })
 
     # Tabla de mortalidad
-    soup = process_request(URL, soup, cookies, {
+    soup = perkins.input.snis.process_request(URL, soup, cookies, {
         **FORM_DATA,
         'ctl00$MainContent$Button1': 'Generar',
     })
 
     # Agrega/elimina columnas
     for col_name, col_before in FORMAT_COLUMNS:
-        soup = process_request(URL, soup, cookies, {
+        soup = perkins.input.snis.process_request(URL, soup, cookies, {
             **FORM_DATA,
             '__CALLBACKID': 'ctl00$MainContent$ASPxPivotGrid1',
             '__CALLBACKPARAM': '|'.join(['c0:D', col_name, col_before, 'true']),
         })
 
-    content = process_request(URL, soup, cookies, {
+    content = perkins.input.snis.process_request(URL, soup, cookies, {
         **FORM_DATA,
         'ctl00$MainContent$ASPxButton1': '',
     }, raw=True)
@@ -144,10 +152,25 @@ def format_df(df):
     ])
     data_df = data_df.unstack()
     data_df.index = pd.to_datetime(
-            data_df.index, unit='W', origin=pd.Timestamp('{}-01-01'.format(year))
+            data_df.index, unit='W', origin=pd.Timestamp('{}-01-01'.format(YEAR))
     )
 
     return data_df
+
+
+DATA_FILE = './sistema.informacion.salud.csv'
+def merge_data(df):
+    snis_df = pd.read_csv(DATA_FILE)
+    snis_df['fecha'] = pd.to_datetime(snis_df['fecha'])
+
+    snis_df = snis_df.set_index(snis_df.columns[:-1].to_list())['decesos']
+    df = df.set_index(df.columns[:-1].to_list())['decesos']
+
+    snis_df = pd.concat([snis_df, df])
+    snis_df = snis_df[~snis_df.index.duplicated(keep='last')]
+    snis_df = snis_df.sort_index()
+
+    snis_df.to_csv(DATA_FILE)
 
 
 if __name__ == '__main__':
@@ -172,5 +195,17 @@ if __name__ == '__main__':
         dept_df = clean_df(dept_df)
         dept_df = format_df(dept_df)
 
-        dept_df = pd.concat({dept_name: dept_df})
-        df = pd.concat([df, dept_df])
+        df = pd.concat([df, dept_df], axis=1)
+
+    df = df[~df.index.duplicated(keep='last')].unstack()
+    df = df.replace(0, np.nan).dropna().reset_index()
+
+    df.columns = ['cod_ine', 'rango_edad', 'sexo', 'fecha', 'decesos']
+
+    df['decesos'] = df['decesos'].astype(int)
+    df['sexo'] = df['sexo'].replace({
+        'Hombres': 'M',
+        'Mujeres': 'F'
+    })
+
+    merge_data(df)
