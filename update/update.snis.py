@@ -175,15 +175,13 @@ def merge_data(df):
 
 if __name__ == '__main__':
     # Busca un proxy que funcione
-    if len(sys.argv) > 1 and '--direct' in sys.argv:
-        proxy = None
-    else:
-        proxy = setup_connection(BASE_URL)
+    proxy = None
+    if '--direct' not in sys.argv:
+        proxy = perkins.requests.setup_proxy(BASE_URL)
 
-    if not proxy:
+    if not proxy and '--direct' not in sys.argv:
         print('No available proxy')
-        if '--direct' not in sys.argv:
-            exit(1)
+        exit(1)
     else:
         print(proxy)
 
