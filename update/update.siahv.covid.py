@@ -3,6 +3,7 @@
 
 import io
 import sys
+import requests
 import unidecode
 
 import numpy as np
@@ -18,6 +19,7 @@ import perkins.input.snis
 
 BASE_URL = 'http://reportes-siahv.minsalud.gob.bo/'
 URL = BASE_URL + 'Reporte_Dinamico_Covid.aspx'
+MAX_TRY = 3
 
 COL_ADD_1 = 'ctl00_ContenidoPrincipal_pivotReporteCovid_pgHeader14'
 COL_ADD_2 = 'ctl00_ContenidoPrincipal_pivotReporteCovid_pgHeader16'
@@ -111,7 +113,7 @@ def parse_df(data_df):
     return df.T
 
 
-def fetch_data(soup, dept_key, dept_code, cookies, proxy=None):
+def do_fetch_data(soup, dept_key, dept_code, cookies, proxy=None):
     soup = perkins.input.snis.process_request(URL, soup, cookies, {
         **FORM_DATA,
         '__EVENTTARGET': 'ctl00$ContenidoPrincipal$ddl_sedes',
@@ -141,6 +143,18 @@ def fetch_data(soup, dept_key, dept_code, cookies, proxy=None):
     data_df = data_df.reorder_levels(['departamento', 'municipio', 'edad'])
 
     return fecha_registro, data_df
+
+
+def fetch_data(*args, _try=0, **kwargs):
+    try:
+        return do_fetch_data(*args, **kwargs)
+
+    except requests.exceptions.ConnectTimeout as e:
+        if _try > MAX_TRY or 'proxy' not in kwargs:
+            raise(e)
+
+        kwargs[proxy] = perkins.requests.setup_proxy(BASE_URL)
+        return fetch_data(*args, _try=_try+1, **kwargs)
 
 
 def setup_fields(soup, cookies, proxy):
@@ -229,7 +243,7 @@ if __name__ == '__main__':
     death_df = None
     for dept_key, dept_code in DEPTS.items():
         fecha_registro, data_df = fetch_data(
-            soup, dept_key, dept_code, cookies, proxy
+            soup, dept_key, dept_code, cookies, proxy=proxy
         )
         death_df = pd.concat([death_df, data_df])
 
