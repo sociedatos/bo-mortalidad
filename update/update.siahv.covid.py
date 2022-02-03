@@ -153,7 +153,7 @@ def fetch_data(*args, _try=0, **kwargs):
         if _try > MAX_TRY or 'proxy' not in kwargs:
             raise(e)
 
-        kwargs[proxy] = perkins.requests.setup_proxy(BASE_URL)
+        kwargs['proxy'] = perkins.requests.setup_proxy(BASE_URL)
         return fetch_data(*args, _try=_try+1, **kwargs)
 
 
