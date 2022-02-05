@@ -199,7 +199,17 @@ def merge_data(df, fecha_registro):
 
     siahv_diff = siahv_df.groupby(siahv_df.columns[:5].to_list())['decesos'].sum()
     siahv_diff = siahv_diff.unstack(level='fecha_deceso')
-    siahv_diff = df.fillna(0) - siahv_diff.fillna(0)
+
+    data_index = pd.concat([
+        siahv_diff.index.to_frame(),
+        df.index.to_frame()
+    ])
+    data_index = data_index[~data_index.index.duplicated()]
+
+    siahv_diff = siahv_diff.reindex(data_index.index).reindex(df.columns, axis=1)
+    siahv_diff = siahv_diff.fillna(0)
+
+    siahv_diff = df.reindex(data_index.index).fillna(0) - siahv_diff
 
     siahv_diff = siahv_diff.replace(0, np.nan).stack()
     siahv_diff = siahv_diff.rename(fecha_registro).to_frame()
