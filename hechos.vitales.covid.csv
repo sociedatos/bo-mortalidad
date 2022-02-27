@@ -205,6 +205,7 @@ beni,santa rosa,>= 60,F,2021-02-01,2021-04-13,1
 beni,santa rosa,>= 60,M,2021-02-01,2021-04-26,1
 beni,trinidad,0-19,F,2021-06-01,2021-07-10,1
 beni,trinidad,0-19,M,2021-05-01,2021-06-02,1
+beni,trinidad,0-19,M,2022-02-01,2022-02-26,1
 beni,trinidad,20-39,F,2021-05-01,2021-05-04,1
 beni,trinidad,20-39,F,2021-05-01,2021-07-11,1
 beni,trinidad,20-39,F,2021-06-01,2021-06-28,1
@@ -808,6 +809,7 @@ chuquisaca,villa vaca guzman (muyupampa),>= 60,M,2020-10-01,2021-05-13,1
 chuquisaca,villa vaca guzman (muyupampa),>= 60,M,2021-02-01,2021-03-23,1
 chuquisaca,yamparaez,>= 60,F,2022-01-01,2022-02-04,1
 chuquisaca,yamparaez,>= 60,M,2021-06-01,2021-06-29,1
+chuquisaca,yamparaez,>= 60,M,2022-02-01,2022-02-26,1
 chuquisaca,yotala,40-49,F,2021-06-01,2021-07-04,1
 chuquisaca,yotala,>= 60,F,2020-08-01,2020-12-28,1
 chuquisaca,yotala,>= 60,F,2021-01-01,2021-02-02,1
@@ -3232,6 +3234,7 @@ cochabamba,tarata,>= 60,F,2020-08-01,2020-12-28,3
 cochabamba,tarata,>= 60,F,2020-08-01,2021-01-11,-3
 cochabamba,tarata,>= 60,F,2020-09-01,2021-02-17,1
 cochabamba,tarata,>= 60,F,2021-05-01,2021-07-25,1
+cochabamba,tarata,>= 60,F,2021-12-01,2022-02-26,1
 cochabamba,tarata,>= 60,F,2022-01-01,2022-02-03,1
 cochabamba,tarata,>= 60,M,2020-07-01,2021-01-11,4
 cochabamba,tarata,>= 60,M,2020-07-01,2021-02-17,-1
@@ -3257,6 +3260,7 @@ cochabamba,tiquipaya,50-59,M,2020-06-01,2021-01-11,1
 cochabamba,tiquipaya,50-59,M,2020-11-01,2020-12-28,1
 cochabamba,tiquipaya,50-59,M,2020-11-01,2021-01-11,-1
 cochabamba,tiquipaya,50-59,M,2021-06-01,2021-09-07,1
+cochabamba,tiquipaya,50-59,M,2022-01-01,2022-02-26,1
 cochabamba,tiquipaya,>= 60,F,2020-06-01,2021-01-11,1
 cochabamba,tiquipaya,>= 60,F,2020-07-01,2020-12-28,1
 cochabamba,tiquipaya,>= 60,F,2020-07-01,2021-01-11,1
@@ -3270,6 +3274,7 @@ cochabamba,tiquipaya,>= 60,F,2021-06-01,2022-01-12,1
 cochabamba,tiquipaya,>= 60,F,2021-07-01,2021-09-02,1
 cochabamba,tiquipaya,>= 60,F,2021-07-01,2021-09-07,1
 cochabamba,tiquipaya,>= 60,F,2021-10-01,2022-01-05,1
+cochabamba,tiquipaya,>= 60,F,2022-01-01,2022-02-26,2
 cochabamba,tiquipaya,>= 60,M,2020-06-01,2021-01-11,1
 cochabamba,tiquipaya,>= 60,M,2020-07-01,2020-12-28,1
 cochabamba,tiquipaya,>= 60,M,2020-07-01,2021-01-11,1
@@ -8815,6 +8820,7 @@ santa.cruz,santa cruz de la sierra,40-49,M,2022-01-01,2022-01-21,4
 santa.cruz,santa cruz de la sierra,40-49,M,2022-01-01,2022-01-24,1
 santa.cruz,santa cruz de la sierra,40-49,M,2022-01-01,2022-01-28,1
 santa.cruz,santa cruz de la sierra,40-49,M,2022-02-01,2022-02-12,2
+santa.cruz,santa cruz de la sierra,40-49,M,2022-02-01,2022-02-26,1
 santa.cruz,santa cruz de la sierra,50-59,F,2020-04-01,2021-01-11,2
 santa.cruz,santa cruz de la sierra,50-59,F,2020-05-01,2020-12-28,11
 santa.cruz,santa cruz de la sierra,50-59,F,2020-05-01,2021-01-11,9
@@ -10803,6 +10809,7 @@ tarija,yacuiba,40-49,M,2021-10-01,2022-01-21,1
 tarija,yacuiba,40-49,M,2021-10-01,2022-02-17,1
 tarija,yacuiba,40-49,M,2021-11-01,2022-01-11,1
 tarija,yacuiba,40-49,M,2021-12-01,2022-01-06,1
+tarija,yacuiba,40-49,M,2021-12-01,2022-02-26,1
 tarija,yacuiba,40-49,M,2022-01-01,2022-02-14,4
 tarija,yacuiba,50-59,F,2020-08-01,2021-01-11,5
 tarija,yacuiba,50-59,F,2020-09-01,2020-12-28,1
@@ -10951,6 +10958,7 @@ tarija,yacuiba,>= 60,M,2021-12-01,2022-01-07,2
 tarija,yacuiba,>= 60,M,2021-12-01,2022-01-11,1
 tarija,yacuiba,>= 60,M,2021-12-01,2022-02-03,1
 tarija,yacuiba,>= 60,M,2021-12-01,2022-02-14,1
+tarija,yacuiba,>= 60,M,2021-12-01,2022-02-26,1
 tarija,yacuiba,>= 60,M,2022-01-01,2022-02-14,3
 tarija,yacuiba,>= 60,M,2022-01-01,2022-02-16,1
 tarija,yacuiba,>= 60,M,2022-01-01,2022-02-17,2
