@@ -498,6 +498,7 @@ chuquisaca,san lucas,>= 60,M,2020-10-01,2020-12-28,1
 chuquisaca,san lucas,>= 60,M,2020-10-01,2021-01-11,-1
 chuquisaca,san lucas,>= 60,M,2021-08-01,2021-09-02,1
 chuquisaca,san lucas,>= 60,M,2022-01-01,2022-02-03,1
+chuquisaca,san lucas,>= 60,M,2022-02-01,2022-03-02,1
 chuquisaca,sopachuy,>= 60,F,2020-09-01,2021-01-11,1
 chuquisaca,sopachuy,>= 60,F,2020-11-01,2020-12-28,1
 chuquisaca,sopachuy,>= 60,F,2020-11-01,2021-01-11,-1
@@ -3132,6 +3133,7 @@ cochabamba,shinaota,40-49,M,2020-10-01,2021-01-11,-1
 cochabamba,shinaota,40-49,M,2021-03-01,2021-08-03,1
 cochabamba,shinaota,40-49,M,2021-06-01,2021-06-20,1
 cochabamba,shinaota,40-49,M,2021-06-01,2021-06-29,1
+cochabamba,shinaota,40-49,M,2021-12-01,2022-03-02,1
 cochabamba,shinaota,50-59,F,2020-09-01,2020-12-28,1
 cochabamba,shinaota,50-59,F,2021-06-01,2021-06-22,1
 cochabamba,shinaota,50-59,M,2020-05-01,2021-01-11,1
@@ -3152,6 +3154,7 @@ cochabamba,shinaota,>= 60,F,2020-07-01,2020-12-28,6
 cochabamba,shinaota,>= 60,F,2020-07-01,2021-01-11,-3
 cochabamba,shinaota,>= 60,F,2021-05-01,2021-06-13,1
 cochabamba,shinaota,>= 60,F,2021-07-01,2021-07-19,1
+cochabamba,shinaota,>= 60,F,2021-12-01,2022-03-02,1
 cochabamba,shinaota,>= 60,M,2020-06-01,2021-01-11,9
 cochabamba,shinaota,>= 60,M,2020-07-01,2020-12-28,11
 cochabamba,shinaota,>= 60,M,2020-07-01,2021-01-11,-9
@@ -3467,6 +3470,7 @@ cochabamba,villa tunari,>= 60,M,2021-06-01,2021-08-16,1
 cochabamba,villa tunari,>= 60,M,2021-06-01,2021-08-19,1
 cochabamba,villa tunari,>= 60,M,2021-07-01,2021-08-05,2
 cochabamba,villa tunari,>= 60,M,2021-07-01,2021-08-16,1
+cochabamba,villa tunari,>= 60,M,2021-11-01,2022-03-02,1
 cochabamba,villa tunari,>= 60,M,2022-01-01,2022-02-24,1
 cochabamba,vinto,20-39,M,2020-05-01,2021-01-11,1
 cochabamba,vinto,20-39,M,2020-07-01,2020-12-28,2
@@ -4877,6 +4881,7 @@ la.paz,viacha,>= 60,F,2020-10-01,2021-01-11,-2
 la.paz,viacha,>= 60,F,2020-12-01,2020-12-28,2
 la.paz,viacha,>= 60,F,2020-12-01,2021-01-11,-2
 la.paz,viacha,>= 60,F,2021-11-01,2022-02-03,1
+la.paz,viacha,>= 60,F,2022-02-01,2022-03-02,1
 la.paz,viacha,>= 60,M,2020-07-01,2021-01-11,12
 la.paz,viacha,>= 60,M,2020-08-01,2021-01-11,2
 la.paz,viacha,>= 60,M,2020-09-01,2021-01-11,1
@@ -6990,6 +6995,7 @@ santa.cruz,la guardia,>= 60,F,2022-01-01,2022-01-19,2
 santa.cruz,la guardia,>= 60,F,2022-01-01,2022-01-31,3
 santa.cruz,la guardia,>= 60,F,2022-01-01,2022-02-01,1
 santa.cruz,la guardia,>= 60,F,2022-01-01,2022-02-06,1
+santa.cruz,la guardia,>= 60,F,2022-02-01,2022-03-02,1
 santa.cruz,la guardia,>= 60,M,2020-05-01,2020-12-28,2
 santa.cruz,la guardia,>= 60,M,2020-05-01,2021-01-11,2
 santa.cruz,la guardia,>= 60,M,2020-06-01,2020-12-28,9
@@ -9014,6 +9020,7 @@ santa.cruz,santa cruz de la sierra,50-59,F,2022-01-01,2022-01-28,1
 santa.cruz,santa cruz de la sierra,50-59,F,2022-01-01,2022-02-16,1
 santa.cruz,santa cruz de la sierra,50-59,F,2022-02-01,2022-02-07,1
 santa.cruz,santa cruz de la sierra,50-59,F,2022-02-01,2022-02-09,2
+santa.cruz,santa cruz de la sierra,50-59,F,2022-02-01,2022-03-02,1
 santa.cruz,santa cruz de la sierra,50-59,M,2020-03-01,2021-01-11,1
 santa.cruz,santa cruz de la sierra,50-59,M,2020-04-01,2020-12-28,1
 santa.cruz,santa cruz de la sierra,50-59,M,2020-04-01,2021-01-11,3
@@ -10065,6 +10072,7 @@ santa.cruz,santa cruz de la sierra,>= 60,M,2022-02-01,2022-02-12,2
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-02-01,2022-02-14,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-02-01,2022-02-16,4
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-02-01,2022-02-19,1
+santa.cruz,santa cruz de la sierra,>= 60,M,2022-02-01,2022-03-02,1
 santa.cruz,santa rosa del sara,40-49,M,2020-07-01,2021-01-11,1
 santa.cruz,santa rosa del sara,40-49,M,2020-10-01,2020-12-28,1
 santa.cruz,santa rosa del sara,40-49,M,2020-10-01,2021-01-11,-1
