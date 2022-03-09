@@ -15,7 +15,7 @@ import perkins
 import perkins.requests
 import perkins.input.snis
 
-YEAR = '2021'
+YEAR = '2022'
 BASE_URL = 'https://estadisticas.minsalud.gob.bo'
 URL = BASE_URL + '/Reportes_Dinamicos/WF_Reporte_Gral_{}.aspx'.format(YEAR)
 
@@ -162,8 +162,10 @@ DATA_FILE = './sistema.informacion.salud.csv'
 def merge_data(df):
     snis_df = pd.read_csv(DATA_FILE)
     snis_df['fecha'] = pd.to_datetime(snis_df['fecha'])
-
+    snis_df['cod_ine'] = snis_df['cod_ine'].astype(int)
     snis_df = snis_df.set_index(snis_df.columns[:-1].to_list())['decesos']
+
+    df['cod_ine'] = df['cod_ine'].astype(int)
     df = df.set_index(df.columns[:-1].to_list())['decesos']
 
     snis_df = pd.concat([snis_df, df])
