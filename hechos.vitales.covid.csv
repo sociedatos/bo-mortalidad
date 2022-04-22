@@ -73,6 +73,7 @@ beni,reyes,>= 60,M,2020-09-01,2020-12-28,6
 beni,reyes,>= 60,M,2020-09-01,2021-01-11,-4
 beni,reyes,>= 60,M,2020-10-01,2021-02-24,1
 beni,reyes,>= 60,M,2021-01-01,2021-02-24,1
+beni,reyes,>= 60,M,2022-01-01,2022-04-21,1
 beni,riberalta,0-19,F,2020-10-01,2020-12-28,1
 beni,riberalta,20-39,F,2021-04-01,2021-04-30,1
 beni,riberalta,20-39,F,2021-05-01,2021-05-05,1
@@ -423,6 +424,7 @@ chuquisaca,culpina,>= 60,M,2021-03-01,2021-03-31,2
 chuquisaca,culpina,>= 60,M,2021-06-01,2021-06-30,1
 chuquisaca,el villar,50-59,F,2021-06-01,2021-07-05,1
 chuquisaca,huacareta,>= 60,M,2021-06-01,2021-06-15,1
+chuquisaca,huacareta,>= 60,M,2021-06-01,2022-04-21,-1
 chuquisaca,icla,>= 60,M,2021-06-01,2021-07-01,1
 chuquisaca,icla,>= 60,M,2021-11-01,2021-12-06,1
 chuquisaca,incahuasi,>= 60,M,2021-01-01,2021-02-01,1
@@ -2430,6 +2432,7 @@ cochabamba,cochabamba,>= 60,M,2022-02-01,2022-04-11,1
 cochabamba,cochabamba,>= 60,M,2022-02-01,2022-04-14,2
 cochabamba,cochabamba,>= 60,M,2022-03-01,2022-04-06,2
 cochabamba,cochabamba,>= 60,M,2022-03-01,2022-04-09,1
+cochabamba,cochabamba,>= 60,M,2022-03-01,2022-04-21,1
 cochabamba,colcapirhua,20-39,F,2020-07-01,2020-12-28,1
 cochabamba,colcapirhua,20-39,F,2021-03-01,2021-04-12,1
 cochabamba,colcapirhua,20-39,M,2021-01-01,2021-02-02,1
@@ -3902,6 +3905,7 @@ la.paz,el alto,20-39,F,2021-08-01,2022-02-10,1
 la.paz,el alto,20-39,F,2021-08-01,2022-03-03,1
 la.paz,el alto,20-39,F,2021-08-01,2022-03-23,1
 la.paz,el alto,20-39,F,2021-09-01,2022-03-23,1
+la.paz,el alto,20-39,F,2021-09-01,2022-04-21,1
 la.paz,el alto,20-39,F,2021-11-01,2021-11-22,1
 la.paz,el alto,20-39,F,2021-11-01,2022-02-10,1
 la.paz,el alto,20-39,F,2021-12-01,2022-02-23,1
@@ -4629,6 +4633,7 @@ la.paz,la paz,40-49,M,2021-01-01,2022-02-16,1
 la.paz,la paz,40-49,M,2021-01-01,2022-03-05,2
 la.paz,la paz,40-49,M,2021-01-01,2022-03-23,1
 la.paz,la paz,40-49,M,2021-01-01,2022-03-27,1
+la.paz,la paz,40-49,M,2021-01-01,2022-04-21,1
 la.paz,la paz,40-49,M,2021-02-01,2021-04-27,1
 la.paz,la paz,40-49,M,2021-02-01,2022-03-23,2
 la.paz,la paz,40-49,M,2021-03-01,2021-05-13,1
@@ -5336,6 +5341,7 @@ la.paz,teoponte,>= 60,F,2021-06-01,2021-12-26,1
 la.paz,tipuani,50-59,F,2021-01-01,2021-12-07,1
 la.paz,tipuani,50-59,F,2021-02-01,2021-12-09,1
 la.paz,viacha,0-19,F,2021-04-01,2022-03-23,1
+la.paz,viacha,0-19,F,2022-01-01,2022-04-21,1
 la.paz,viacha,20-39,F,2021-02-01,2022-04-06,1
 la.paz,viacha,40-49,F,2020-08-01,2021-01-11,1
 la.paz,viacha,40-49,F,2020-12-01,2020-12-28,1
@@ -6167,6 +6173,7 @@ oruro,salinas de garci mendoza,>= 60,M,2021-01-01,2021-05-31,1
 oruro,salinas de garci mendoza,>= 60,M,2021-02-01,2021-05-31,1
 oruro,santiago de huari,20-39,M,2021-06-01,2021-12-14,1
 oruro,santiago de huari,>= 60,F,2021-09-01,2021-12-15,1
+oruro,santiago de huari,>= 60,F,2022-02-01,2022-04-21,1
 oruro,santiago de huari,>= 60,M,2021-05-01,2021-12-15,1
 oruro,soracachi,50-59,M,2020-10-01,2021-01-11,1
 oruro,soracachi,50-59,M,2020-11-01,2020-12-28,1
@@ -8406,6 +8413,7 @@ santa.cruz,san ignacio de velasco,0-19,F,2020-09-01,2021-01-11,-1
 santa.cruz,san ignacio de velasco,0-19,M,2020-08-01,2021-01-11,1
 santa.cruz,san ignacio de velasco,0-19,M,2020-09-01,2020-12-28,1
 santa.cruz,san ignacio de velasco,0-19,M,2020-09-01,2021-01-11,-1
+santa.cruz,san ignacio de velasco,0-19,M,2022-04-01,2022-04-21,1
 santa.cruz,san ignacio de velasco,20-39,F,2020-05-01,2021-01-11,1
 santa.cruz,san ignacio de velasco,20-39,F,2020-06-01,2020-12-28,1
 santa.cruz,san ignacio de velasco,20-39,F,2020-06-01,2021-01-11,-1
@@ -10183,6 +10191,7 @@ santa.cruz,santa cruz de la sierra,>= 60,F,2022-01-01,2022-02-04,1
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-01-01,2022-02-06,2
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-01-01,2022-02-07,1
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-01-01,2022-02-16,2
+santa.cruz,santa cruz de la sierra,>= 60,F,2022-01-01,2022-04-21,1
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-02-01,2022-02-04,3
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-02-01,2022-02-09,2
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-02-01,2022-02-14,1
@@ -10811,6 +10820,7 @@ tarija,bermejo,20-39,F,2021-05-01,2021-09-23,1
 tarija,bermejo,20-39,M,2020-07-01,2020-12-28,1
 tarija,bermejo,40-49,F,2020-09-01,2020-12-28,1
 tarija,bermejo,40-49,F,2020-11-01,2020-12-28,1
+tarija,bermejo,40-49,F,2021-07-01,2022-04-21,1
 tarija,bermejo,40-49,M,2020-08-01,2020-12-28,1
 tarija,bermejo,40-49,M,2020-09-01,2021-01-11,1
 tarija,bermejo,40-49,M,2020-10-01,2020-12-28,1
@@ -10820,6 +10830,7 @@ tarija,bermejo,50-59,F,2020-09-01,2021-01-11,1
 tarija,bermejo,50-59,F,2020-10-01,2020-12-28,1
 tarija,bermejo,50-59,F,2020-10-01,2021-01-11,-1
 tarija,bermejo,50-59,F,2020-11-01,2020-12-28,1
+tarija,bermejo,50-59,F,2021-07-01,2022-04-21,1
 tarija,bermejo,50-59,M,2020-07-01,2020-12-28,1
 tarija,bermejo,50-59,M,2020-07-01,2021-01-11,1
 tarija,bermejo,50-59,M,2020-08-01,2020-12-28,1
@@ -10851,10 +10862,13 @@ tarija,bermejo,>= 60,M,2021-03-01,2021-04-06,1
 tarija,bermejo,>= 60,M,2021-03-01,2021-04-07,1
 tarija,bermejo,>= 60,M,2021-03-01,2021-04-23,1
 tarija,bermejo,>= 60,M,2021-04-01,2021-05-14,2
+tarija,bermejo,>= 60,M,2021-05-01,2022-04-21,2
+tarija,bermejo,>= 60,M,2021-06-01,2022-04-21,1
 tarija,bermejo,>= 60,M,2021-09-01,2021-10-01,1
 tarija,bermejo,>= 60,M,2021-12-01,2022-04-06,1
 tarija,bermejo,>= 60,M,2022-01-01,2022-03-27,2
 tarija,bermejo,>= 60,M,2022-01-01,2022-04-06,1
+tarija,bermejo,>= 60,M,2022-01-01,2022-04-21,1
 tarija,carapari,50-59,M,2020-09-01,2021-01-11,1
 tarija,carapari,50-59,M,2020-10-01,2020-12-28,1
 tarija,carapari,50-59,M,2020-10-01,2021-01-11,-1
@@ -11297,6 +11311,7 @@ tarija,tarija,>= 60,M,2022-01-01,2022-02-21,1
 tarija,tarija,>= 60,M,2022-01-01,2022-02-23,1
 tarija,tarija,>= 60,M,2022-02-01,2022-02-09,1
 tarija,tarija,>= 60,M,2022-02-01,2022-03-17,2
+tarija,uriondo (a. concepcion),40-49,F,2021-07-01,2022-04-21,1
 tarija,uriondo (a. concepcion),50-59,M,2021-12-01,2022-04-14,1
 tarija,uriondo (a. concepcion),>= 60,M,2021-01-01,2022-01-06,1
 tarija,uriondo (a. concepcion),>= 60,M,2021-02-01,2022-04-01,1
@@ -11493,6 +11508,7 @@ tarija,yacuiba,>= 60,F,2021-12-01,2022-02-14,1
 tarija,yacuiba,>= 60,F,2022-01-01,2022-02-14,7
 tarija,yacuiba,>= 60,F,2022-01-01,2022-02-16,1
 tarija,yacuiba,>= 60,F,2022-01-01,2022-02-17,2
+tarija,yacuiba,>= 60,F,2022-03-01,2022-04-21,1
 tarija,yacuiba,>= 60,M,2020-07-01,2021-01-11,7
 tarija,yacuiba,>= 60,M,2020-08-01,2021-01-11,15
 tarija,yacuiba,>= 60,M,2020-08-01,2021-02-19,1

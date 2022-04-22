@@ -149,7 +149,7 @@ def fetch_data(*args, _try=0, **kwargs):
     try:
         return do_fetch_data(*args, **kwargs)
 
-    except requests.exceptions.ConnectTimeout as e:
+    except requests.exceptions.ConnectionError as e:
         if _try > MAX_TRY or 'proxy' not in kwargs:
             raise(e)
 
@@ -173,6 +173,39 @@ def setup_fields(soup, cookies, proxy):
     }, proxy)
 
     return soup
+
+
+def do_config_request():
+    # Busca un proxy que funcione
+    proxy = None
+    if '--direct' not in sys.argv:
+        proxy = perkins.requests.setup_proxy(BASE_URL)
+
+    if proxy is None and '--direct' not in sys.argv:
+        raise Exception('No proxy!')
+
+    # Primer request
+    req = perkins.requests.do_request(URL, timeout=60, proxies=proxy)
+    soup = BeautifulSoup(req.content, 'html.parser')
+
+    cookies = req.headers['Set-Cookie']
+    cookies = [cookie.split(';')[0] for cookie in cookies.split(',')]
+
+    # Agrega columnas
+    soup = setup_fields(soup, cookies, proxy)
+
+    return proxy, cookies, soup
+
+
+def config_request(_try=0):
+    try:
+        return do_config_request()
+
+    except requests.exceptions.ConnectionError as e:
+        if _try > MAX_TRY:
+            raise(e)
+
+    return config_request(_try=_try + 1)
 
 
 DATA_FILE = './hechos.vitales.covid.csv'
@@ -228,26 +261,7 @@ def merge_data(df, fecha_registro):
 
 
 if __name__ == '__main__':
-    # Busca un proxy que funcione
-    proxy = None
-    if '--direct' not in sys.argv:
-        proxy = perkins.requests.setup_proxy(BASE_URL)
-
-    if not proxy and '--direct' not in sys.argv:
-        print('No available proxy')
-        exit(1)
-    else:
-        print(proxy)
-
-    # Primer request
-    req = perkins.requests.do_request(URL, timeout=60, proxies=proxy)
-    soup = BeautifulSoup(req.content, 'html.parser')
-
-    cookies = req.headers['Set-Cookie']
-    cookies = [cookie.split(';')[0] for cookie in cookies.split(',')]
-
-    # Agrega columnas
-    soup = setup_fields(soup, cookies, proxy)
+    proxy, cookies, soup = config_request()
 
     # Exporta datos
     death_df = None
