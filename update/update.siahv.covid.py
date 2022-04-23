@@ -19,7 +19,7 @@ import perkins.input.snis
 
 BASE_URL = 'http://reportes-siahv.minsalud.gob.bo/'
 URL = BASE_URL + 'Reporte_Dinamico_Covid.aspx'
-MAX_TRY = 3
+MAX_TRY = 5
 
 COL_ADD_1 = 'ctl00_ContenidoPrincipal_pivotReporteCovid_pgHeader14'
 COL_ADD_2 = 'ctl00_ContenidoPrincipal_pivotReporteCovid_pgHeader16'
