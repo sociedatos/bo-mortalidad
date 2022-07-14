@@ -3192,6 +3192,7 @@ cochabamba,sacaba,>= 60,M,2021-08-01,2021-09-08,3
 cochabamba,sacaba,>= 60,M,2021-11-01,2022-02-09,2
 cochabamba,sacaba,>= 60,M,2021-12-01,2022-01-26,1
 cochabamba,sacaba,>= 60,M,2021-12-01,2022-02-12,1
+cochabamba,sacaba,>= 60,M,2022-01-01,2022-07-13,2
 cochabamba,sacabamba,40-49,F,2021-11-01,2022-01-10,1
 cochabamba,sacabamba,>= 60,F,2020-10-01,2021-08-02,1
 cochabamba,sacabamba,>= 60,M,2021-06-01,2021-10-02,1
@@ -3845,6 +3846,7 @@ la.paz,chulumani (v. de la libertad),>= 60,M,2020-06-01,2021-01-11,1
 la.paz,chulumani (v. de la libertad),>= 60,M,2020-08-01,2022-02-14,1
 la.paz,chulumani (v. de la libertad),>= 60,M,2020-10-01,2020-12-28,1
 la.paz,chulumani (v. de la libertad),>= 60,M,2020-10-01,2021-01-11,-1
+la.paz,chulumani (v. de la libertad),>= 60,M,2021-03-01,2022-07-13,1
 la.paz,chulumani (v. de la libertad),>= 60,M,2021-05-01,2022-07-04,1
 la.paz,chulumani (v. de la libertad),>= 60,M,2021-06-01,2022-07-04,1
 la.paz,collana,50-59,M,2020-08-01,2021-01-11,1
@@ -3891,6 +3893,7 @@ la.paz,coro coro,>= 60,M,2020-07-01,2021-01-11,1
 la.paz,coro coro,>= 60,M,2020-12-01,2020-12-28,1
 la.paz,coro coro,>= 60,M,2020-12-01,2021-01-11,-1
 la.paz,coro coro,>= 60,M,2021-02-01,2022-07-08,2
+la.paz,coroico,40-49,M,2021-04-01,2022-07-13,1
 la.paz,coroico,>= 60,F,2020-07-01,2021-01-11,1
 la.paz,coroico,>= 60,F,2020-10-01,2020-12-28,1
 la.paz,coroico,>= 60,F,2020-10-01,2021-01-11,-1
@@ -4246,6 +4249,7 @@ la.paz,el alto,50-59,M,2021-12-01,2022-04-23,1
 la.paz,el alto,50-59,M,2022-01-01,2022-02-04,1
 la.paz,el alto,50-59,M,2022-01-01,2022-02-19,1
 la.paz,el alto,50-59,M,2022-01-01,2022-07-08,1
+la.paz,el alto,50-59,M,2022-01-01,2022-07-13,1
 la.paz,el alto,50-59,M,2022-02-01,2022-03-23,1
 la.paz,el alto,>= 60,D,2022-01-01,2022-06-23,1
 la.paz,el alto,>= 60,F,2020-05-01,2020-12-28,1
@@ -4557,6 +4561,7 @@ la.paz,irupana (villa de lanza),>= 60,F,2021-01-01,2022-07-04,1
 la.paz,irupana (villa de lanza),>= 60,F,2021-02-01,2022-06-23,1
 la.paz,irupana (villa de lanza),>= 60,F,2021-02-01,2022-07-04,1
 la.paz,irupana (villa de lanza),>= 60,F,2021-06-01,2022-07-04,1
+la.paz,irupana (villa de lanza),>= 60,F,2021-12-01,2022-07-13,1
 la.paz,irupana (villa de lanza),>= 60,M,2021-02-01,2022-07-04,2
 la.paz,irupana (villa de lanza),>= 60,M,2021-03-01,2022-07-04,1
 la.paz,irupana (villa de lanza),>= 60,M,2021-06-01,2022-07-04,1
@@ -4766,6 +4771,7 @@ la.paz,la paz,40-49,M,2021-02-01,2021-04-27,1
 la.paz,la paz,40-49,M,2021-02-01,2022-03-23,2
 la.paz,la paz,40-49,M,2021-02-01,2022-06-23,1
 la.paz,la paz,40-49,M,2021-02-01,2022-07-04,1
+la.paz,la paz,40-49,M,2021-02-01,2022-07-13,1
 la.paz,la paz,40-49,M,2021-03-01,2021-05-13,1
 la.paz,la paz,40-49,M,2021-03-01,2022-02-14,1
 la.paz,la paz,40-49,M,2021-03-01,2022-02-21,1
@@ -5146,6 +5152,7 @@ la.paz,la paz,>= 60,F,2022-01-01,2022-03-17,1
 la.paz,la paz,>= 60,F,2022-01-01,2022-07-08,3
 la.paz,la paz,>= 60,F,2022-01-01,2022-07-11,3
 la.paz,la paz,>= 60,F,2022-01-01,2022-07-12,2
+la.paz,la paz,>= 60,F,2022-01-01,2022-07-13,3
 la.paz,la paz,>= 60,F,2022-02-01,2022-03-17,1
 la.paz,la paz,>= 60,F,2022-02-01,2022-03-23,2
 la.paz,la paz,>= 60,F,2022-02-01,2022-07-08,1
@@ -5368,11 +5375,13 @@ la.paz,la paz,>= 60,M,2022-01-01,2022-06-23,2
 la.paz,la paz,>= 60,M,2022-01-01,2022-07-08,1
 la.paz,la paz,>= 60,M,2022-01-01,2022-07-11,4
 la.paz,la paz,>= 60,M,2022-01-01,2022-07-12,1
+la.paz,la paz,>= 60,M,2022-01-01,2022-07-13,3
 la.paz,la paz,>= 60,M,2022-02-01,2022-03-23,3
 la.paz,la paz,>= 60,M,2022-02-01,2022-07-08,3
 la.paz,la paz,>= 60,M,2022-02-01,2022-07-11,6
 la.paz,la paz,>= 60,M,2022-02-01,2022-07-12,5
 la.paz,la paz,>= 60,M,2022-03-01,2022-06-23,1
+la.paz,la paz,>= 60,M,2022-04-01,2022-07-13,1
 la.paz,laja,>= 60,F,2021-01-01,2021-11-26,1
 la.paz,laja,>= 60,M,2021-03-01,2021-11-24,1
 la.paz,laja,>= 60,M,2021-04-01,2022-05-06,1
