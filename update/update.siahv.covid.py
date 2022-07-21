@@ -17,7 +17,7 @@ import perkins.requests
 import perkins.input.snis
 
 
-BASE_URL = 'http://reportes-siahv.minsalud.gob.bo/'
+BASE_URL = 'https://reportes-siahv.minsalud.gob.bo/'
 URL = BASE_URL + 'Reporte_Dinamico_Covid.aspx'
 MAX_TRY = 5
 
