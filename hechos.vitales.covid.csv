@@ -378,6 +378,7 @@ beni,trinidad,>= 60,M,2022-01-01,2022-02-09,1
 beni,trinidad,>= 60,M,2022-01-01,2022-02-10,1
 beni,trinidad,>= 60,M,2022-02-01,2022-02-10,1
 chuquisaca,alcala,50-59,M,2021-01-01,2021-01-25,1
+chuquisaca,alcala,>= 60,M,2022-07-01,2022-07-28,1
 chuquisaca,camargo,40-49,F,2020-12-01,2020-12-28,1
 chuquisaca,camargo,50-59,M,2021-06-01,2021-06-23,2
 chuquisaca,camargo,50-59,M,2021-06-01,2021-06-25,1
@@ -391,6 +392,7 @@ chuquisaca,camargo,>= 60,F,2021-01-01,2021-01-29,1
 chuquisaca,camargo,>= 60,F,2021-01-01,2021-02-05,1
 chuquisaca,camargo,>= 60,F,2021-02-01,2021-02-05,1
 chuquisaca,camargo,>= 60,F,2021-05-01,2021-05-31,2
+chuquisaca,camargo,>= 60,F,2022-07-01,2022-07-28,1
 chuquisaca,camargo,>= 60,M,2020-08-01,2021-01-11,2
 chuquisaca,camargo,>= 60,M,2020-09-01,2021-01-11,1
 chuquisaca,camargo,>= 60,M,2020-12-01,2020-12-28,3
@@ -2089,6 +2091,7 @@ cochabamba,cochabamba,>= 60,F,2022-03-01,2022-04-14,1
 cochabamba,cochabamba,>= 60,F,2022-04-01,2022-04-29,1
 cochabamba,cochabamba,>= 60,F,2022-07-01,2022-07-20,1
 cochabamba,cochabamba,>= 60,F,2022-07-01,2022-07-25,1
+cochabamba,cochabamba,>= 60,F,2022-07-01,2022-07-28,2
 cochabamba,cochabamba,>= 60,M,2020-03-01,2021-01-11,1
 cochabamba,cochabamba,>= 60,M,2020-04-01,2020-12-28,3
 cochabamba,cochabamba,>= 60,M,2020-04-01,2021-01-11,5
@@ -2490,6 +2493,7 @@ cochabamba,cochabamba,>= 60,M,2022-03-01,2022-04-09,1
 cochabamba,cochabamba,>= 60,M,2022-03-01,2022-04-21,1
 cochabamba,cochabamba,>= 60,M,2022-07-01,2022-07-21,1
 cochabamba,cochabamba,>= 60,M,2022-07-01,2022-07-23,1
+cochabamba,cochabamba,>= 60,M,2022-07-01,2022-07-28,1
 cochabamba,colcapirhua,20-39,F,2020-07-01,2020-12-28,1
 cochabamba,colcapirhua,20-39,F,2021-03-01,2021-04-12,1
 cochabamba,colcapirhua,20-39,M,2021-01-01,2021-02-02,1
@@ -3724,6 +3728,7 @@ la.paz,achacachi,>= 60,F,2020-10-01,2021-01-11,-1
 la.paz,achacachi,>= 60,M,2020-07-01,2021-01-11,4
 la.paz,achacachi,>= 60,M,2020-08-01,2021-01-11,2
 la.paz,achacachi,>= 60,M,2020-08-01,2021-07-20,1
+la.paz,achacachi,>= 60,M,2020-08-01,2022-07-28,1
 la.paz,achacachi,>= 60,M,2020-09-01,2021-05-13,1
 la.paz,achacachi,>= 60,M,2020-10-01,2020-12-28,6
 la.paz,achacachi,>= 60,M,2020-10-01,2021-01-11,-6
@@ -4308,6 +4313,7 @@ la.paz,el alto,50-59,M,2022-01-01,2022-07-08,1
 la.paz,el alto,50-59,M,2022-01-01,2022-07-13,1
 la.paz,el alto,50-59,M,2022-02-01,2022-03-23,1
 la.paz,el alto,50-59,M,2022-02-01,2022-07-27,1
+la.paz,el alto,50-59,M,2022-02-01,2022-07-28,1
 la.paz,el alto,>= 60,D,2022-01-01,2022-06-23,1
 la.paz,el alto,>= 60,F,2020-05-01,2020-12-28,1
 la.paz,el alto,>= 60,F,2020-05-01,2021-01-11,1
@@ -4414,6 +4420,7 @@ la.paz,el alto,>= 60,F,2022-02-01,2022-02-16,1
 la.paz,el alto,>= 60,F,2022-02-01,2022-02-22,1
 la.paz,el alto,>= 60,F,2022-02-01,2022-07-04,1
 la.paz,el alto,>= 60,F,2022-02-01,2022-07-27,1
+la.paz,el alto,>= 60,F,2022-02-01,2022-07-28,3
 la.paz,el alto,>= 60,F,2022-03-01,2022-03-23,1
 la.paz,el alto,>= 60,F,2022-03-01,2022-03-27,1
 la.paz,el alto,>= 60,M,2020-03-01,2021-01-11,2
@@ -4564,6 +4571,7 @@ la.paz,el alto,>= 60,M,2022-02-01,2022-07-08,1
 la.paz,el alto,>= 60,M,2022-02-01,2022-07-11,1
 la.paz,el alto,>= 60,M,2022-02-01,2022-07-25,1
 la.paz,el alto,>= 60,M,2022-02-01,2022-07-27,3
+la.paz,el alto,>= 60,M,2022-02-01,2022-07-28,10
 la.paz,el alto,>= 60,M,2022-03-01,2022-03-05,1
 la.paz,el alto,>= 60,M,2022-03-01,2022-03-27,1
 la.paz,el alto,>= 60,M,2022-03-01,2022-07-20,4
@@ -4626,6 +4634,7 @@ la.paz,irupana (villa de lanza),50-59,F,2021-12-01,2022-06-23,1
 la.paz,irupana (villa de lanza),50-59,M,2021-03-01,2022-07-04,1
 la.paz,irupana (villa de lanza),50-59,M,2021-06-01,2022-07-04,1
 la.paz,irupana (villa de lanza),>= 60,F,2021-01-01,2022-07-04,1
+la.paz,irupana (villa de lanza),>= 60,F,2021-01-01,2022-07-28,1
 la.paz,irupana (villa de lanza),>= 60,F,2021-02-01,2022-06-23,1
 la.paz,irupana (villa de lanza),>= 60,F,2021-02-01,2022-07-04,1
 la.paz,irupana (villa de lanza),>= 60,F,2021-06-01,2022-07-04,1
@@ -4750,6 +4759,7 @@ la.paz,la paz,20-39,M,2021-02-01,2021-04-20,1
 la.paz,la paz,20-39,M,2021-02-01,2022-02-04,1
 la.paz,la paz,20-39,M,2021-02-01,2022-02-19,1
 la.paz,la paz,20-39,M,2021-02-01,2022-03-23,1
+la.paz,la paz,20-39,M,2021-03-01,2022-07-28,1
 la.paz,la paz,20-39,M,2021-04-01,2021-04-21,1
 la.paz,la paz,20-39,M,2021-04-01,2021-08-23,1
 la.paz,la paz,20-39,M,2021-04-01,2022-02-22,1
@@ -4939,9 +4949,11 @@ la.paz,la paz,50-59,F,2021-02-01,2022-02-14,1
 la.paz,la paz,50-59,F,2021-02-01,2022-03-23,1
 la.paz,la paz,50-59,F,2021-02-01,2022-07-04,1
 la.paz,la paz,50-59,F,2021-02-01,2022-07-27,1
+la.paz,la paz,50-59,F,2021-02-01,2022-07-28,2
 la.paz,la paz,50-59,F,2021-03-01,2021-04-14,1
 la.paz,la paz,50-59,F,2021-03-01,2022-02-14,2
 la.paz,la paz,50-59,F,2021-03-01,2022-04-01,1
+la.paz,la paz,50-59,F,2021-03-01,2022-07-28,1
 la.paz,la paz,50-59,F,2021-05-01,2021-05-21,1
 la.paz,la paz,50-59,F,2021-05-01,2021-06-29,1
 la.paz,la paz,50-59,F,2021-05-01,2021-08-11,1
@@ -4989,6 +5001,7 @@ la.paz,la paz,50-59,M,2020-07-01,2022-03-27,2
 la.paz,la paz,50-59,M,2020-07-01,2022-07-20,8
 la.paz,la paz,50-59,M,2020-07-01,2022-07-23,8
 la.paz,la paz,50-59,M,2020-07-01,2022-07-25,1
+la.paz,la paz,50-59,M,2020-07-01,2022-07-28,1
 la.paz,la paz,50-59,M,2020-08-01,2020-12-28,10
 la.paz,la paz,50-59,M,2020-08-01,2021-01-11,6
 la.paz,la paz,50-59,M,2020-08-01,2021-05-20,3
@@ -5041,6 +5054,7 @@ la.paz,la paz,50-59,M,2021-02-01,2022-02-21,1
 la.paz,la paz,50-59,M,2021-02-01,2022-03-23,7
 la.paz,la paz,50-59,M,2021-02-01,2022-06-23,2
 la.paz,la paz,50-59,M,2021-02-01,2022-07-04,2
+la.paz,la paz,50-59,M,2021-02-01,2022-07-28,1
 la.paz,la paz,50-59,M,2021-03-01,2021-05-11,1
 la.paz,la paz,50-59,M,2021-03-01,2022-02-16,1
 la.paz,la paz,50-59,M,2021-03-01,2022-02-19,1
@@ -5058,6 +5072,7 @@ la.paz,la paz,50-59,M,2021-05-01,2022-02-19,1
 la.paz,la paz,50-59,M,2021-05-01,2022-03-05,1
 la.paz,la paz,50-59,M,2021-05-01,2022-03-23,4
 la.paz,la paz,50-59,M,2021-05-01,2022-06-23,3
+la.paz,la paz,50-59,M,2021-05-01,2022-07-28,1
 la.paz,la paz,50-59,M,2021-06-01,2021-07-12,1
 la.paz,la paz,50-59,M,2021-06-01,2021-07-14,3
 la.paz,la paz,50-59,M,2021-06-01,2021-07-19,3
@@ -5128,6 +5143,7 @@ la.paz,la paz,>= 60,F,2020-09-01,2021-01-11,1
 la.paz,la paz,>= 60,F,2020-09-01,2022-03-23,1
 la.paz,la paz,>= 60,F,2020-09-01,2022-07-08,1
 la.paz,la paz,>= 60,F,2020-09-01,2022-07-20,1
+la.paz,la paz,>= 60,F,2020-09-01,2022-07-28,1
 la.paz,la paz,>= 60,F,2020-10-01,2020-12-28,20
 la.paz,la paz,>= 60,F,2020-10-01,2021-01-11,-18
 la.paz,la paz,>= 60,F,2020-10-01,2022-07-08,1
@@ -5180,6 +5196,7 @@ la.paz,la paz,>= 60,F,2021-02-01,2022-03-30,1
 la.paz,la paz,>= 60,F,2021-02-01,2022-06-23,1
 la.paz,la paz,>= 60,F,2021-02-01,2022-07-04,2
 la.paz,la paz,>= 60,F,2021-02-01,2022-07-27,5
+la.paz,la paz,>= 60,F,2021-02-01,2022-07-28,6
 la.paz,la paz,>= 60,F,2021-03-01,2021-04-14,1
 la.paz,la paz,>= 60,F,2021-03-01,2021-05-06,1
 la.paz,la paz,>= 60,F,2021-03-01,2022-02-12,2
@@ -5189,6 +5206,7 @@ la.paz,la paz,>= 60,F,2021-03-01,2022-03-23,4
 la.paz,la paz,>= 60,F,2021-03-01,2022-03-30,2
 la.paz,la paz,>= 60,F,2021-03-01,2022-04-01,1
 la.paz,la paz,>= 60,F,2021-03-01,2022-07-04,1
+la.paz,la paz,>= 60,F,2021-03-01,2022-07-28,2
 la.paz,la paz,>= 60,F,2021-04-01,2021-04-21,1
 la.paz,la paz,>= 60,F,2021-04-01,2021-05-13,1
 la.paz,la paz,>= 60,F,2021-04-01,2022-02-16,3
@@ -5307,6 +5325,7 @@ la.paz,la paz,>= 60,M,2020-07-01,2022-03-27,11
 la.paz,la paz,>= 60,M,2020-07-01,2022-07-20,28
 la.paz,la paz,>= 60,M,2020-07-01,2022-07-23,14
 la.paz,la paz,>= 60,M,2020-07-01,2022-07-25,5
+la.paz,la paz,>= 60,M,2020-07-01,2022-07-28,1
 la.paz,la paz,>= 60,M,2020-08-01,2020-12-28,19
 la.paz,la paz,>= 60,M,2020-08-01,2021-01-11,58
 la.paz,la paz,>= 60,M,2020-08-01,2021-03-25,1
@@ -5346,6 +5365,7 @@ la.paz,la paz,>= 60,M,2020-12-01,2021-06-15,2
 la.paz,la paz,>= 60,M,2020-12-01,2021-08-24,1
 la.paz,la paz,>= 60,M,2020-12-01,2022-03-27,1
 la.paz,la paz,>= 60,M,2020-12-01,2022-07-23,5
+la.paz,la paz,>= 60,M,2020-12-01,2022-07-28,1
 la.paz,la paz,>= 60,M,2021-01-01,2021-01-12,1
 la.paz,la paz,>= 60,M,2021-01-01,2021-01-21,1
 la.paz,la paz,>= 60,M,2021-01-01,2021-01-26,1
@@ -5402,6 +5422,7 @@ la.paz,la paz,>= 60,M,2021-02-01,2022-06-23,4
 la.paz,la paz,>= 60,M,2021-02-01,2022-07-04,3
 la.paz,la paz,>= 60,M,2021-02-01,2022-07-20,1
 la.paz,la paz,>= 60,M,2021-02-01,2022-07-27,5
+la.paz,la paz,>= 60,M,2021-02-01,2022-07-28,7
 la.paz,la paz,>= 60,M,2021-03-01,2021-04-14,2
 la.paz,la paz,>= 60,M,2021-03-01,2021-04-20,1
 la.paz,la paz,>= 60,M,2021-03-01,2021-05-06,1
@@ -5414,6 +5435,7 @@ la.paz,la paz,>= 60,M,2021-03-01,2022-02-22,1
 la.paz,la paz,>= 60,M,2021-03-01,2022-03-23,9
 la.paz,la paz,>= 60,M,2021-03-01,2022-04-01,1
 la.paz,la paz,>= 60,M,2021-03-01,2022-07-04,2
+la.paz,la paz,>= 60,M,2021-03-01,2022-07-28,2
 la.paz,la paz,>= 60,M,2021-04-01,2021-04-21,1
 la.paz,la paz,>= 60,M,2021-04-01,2021-05-13,3
 la.paz,la paz,>= 60,M,2021-04-01,2022-02-14,1
@@ -5434,6 +5456,7 @@ la.paz,la paz,>= 60,M,2021-05-01,2022-03-27,1
 la.paz,la paz,>= 60,M,2021-05-01,2022-03-30,1
 la.paz,la paz,>= 60,M,2021-05-01,2022-06-23,2
 la.paz,la paz,>= 60,M,2021-05-01,2022-07-27,1
+la.paz,la paz,>= 60,M,2021-05-01,2022-07-28,1
 la.paz,la paz,>= 60,M,2021-06-01,2021-06-25,1
 la.paz,la paz,>= 60,M,2021-06-01,2021-07-12,3
 la.paz,la paz,>= 60,M,2021-06-01,2021-07-14,1
@@ -9527,6 +9550,7 @@ santa.cruz,santa cruz de la sierra,20-39,M,2022-01-01,2022-01-31,2
 santa.cruz,santa cruz de la sierra,20-39,M,2022-02-01,2022-02-12,1
 santa.cruz,santa cruz de la sierra,20-39,M,2022-04-01,2022-04-13,1
 santa.cruz,santa cruz de la sierra,20-39,M,2022-07-01,2022-07-20,1
+santa.cruz,santa cruz de la sierra,20-39,M,2022-07-01,2022-07-28,1
 santa.cruz,santa cruz de la sierra,40-49,F,2020-04-01,2021-01-11,1
 santa.cruz,santa cruz de la sierra,40-49,F,2020-05-01,2020-12-28,4
 santa.cruz,santa cruz de la sierra,40-49,F,2020-06-01,2020-12-28,16
@@ -9659,6 +9683,7 @@ santa.cruz,santa cruz de la sierra,40-49,F,2022-01-01,2022-02-16,1
 santa.cruz,santa cruz de la sierra,40-49,F,2022-05-01,2022-06-23,1
 santa.cruz,santa cruz de la sierra,40-49,F,2022-07-01,2022-07-04,1
 santa.cruz,santa cruz de la sierra,40-49,F,2022-07-01,2022-07-20,1
+santa.cruz,santa cruz de la sierra,40-49,F,2022-07-01,2022-07-28,1
 santa.cruz,santa cruz de la sierra,40-49,M,2020-03-01,2021-01-11,1
 santa.cruz,santa cruz de la sierra,40-49,M,2020-04-01,2021-01-11,2
 santa.cruz,santa cruz de la sierra,40-49,M,2020-04-01,2021-02-22,1
@@ -11129,6 +11154,7 @@ santa.cruz,santa cruz de la sierra,>= 60,M,2022-07-01,2022-07-08,2
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-07-01,2022-07-11,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-07-01,2022-07-20,3
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-07-01,2022-07-27,2
+santa.cruz,santa cruz de la sierra,>= 60,M,2022-07-01,2022-07-28,1
 santa.cruz,santa rosa del sara,40-49,M,2020-07-01,2021-01-11,1
 santa.cruz,santa rosa del sara,40-49,M,2020-10-01,2020-12-28,1
 santa.cruz,santa rosa del sara,40-49,M,2020-10-01,2021-01-11,-1
@@ -12088,6 +12114,7 @@ tarija,yacuiba,>= 60,M,2022-01-01,2022-02-14,3
 tarija,yacuiba,>= 60,M,2022-01-01,2022-02-16,1
 tarija,yacuiba,>= 60,M,2022-01-01,2022-02-17,2
 tarija,yacuiba,>= 60,M,2022-02-01,2022-06-23,5
+tarija,yacuiba,>= 60,M,2022-04-01,2022-07-28,1
 tarija,yunchara,>= 60,F,2021-01-01,2021-08-31,1
 tarija,yunchara,>= 60,M,2021-01-01,2021-11-23,1
 tarija,yunchara,>= 60,M,2021-05-01,2021-08-31,1
