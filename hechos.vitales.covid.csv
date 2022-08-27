@@ -6017,6 +6017,7 @@ la.paz,la paz,>= 60,M,2022-01-01,2022-07-20,1
 la.paz,la paz,>= 60,M,2022-01-01,2022-07-25,2
 la.paz,la paz,>= 60,M,2022-01-01,2022-08-01,3
 la.paz,la paz,>= 60,M,2022-01-01,2022-08-02,2
+la.paz,la paz,>= 60,M,2022-01-01,2022-08-26,1
 la.paz,la paz,>= 60,M,2022-02-01,2022-03-23,3
 la.paz,la paz,>= 60,M,2022-02-01,2022-07-08,3
 la.paz,la paz,>= 60,M,2022-02-01,2022-07-11,6
@@ -8379,6 +8380,7 @@ santa.cruz,general saavedra,>= 60,M,2021-04-01,2021-04-05,1
 santa.cruz,general saavedra,>= 60,M,2021-05-01,2021-05-31,1
 santa.cruz,general saavedra,>= 60,M,2021-07-01,2021-07-15,1
 santa.cruz,general saavedra,>= 60,M,2021-12-01,2021-12-28,1
+santa.cruz,general saavedra,>= 60,M,2022-08-01,2022-08-26,1
 santa.cruz,gutierrez,40-49,F,2020-04-01,2021-01-11,1
 santa.cruz,gutierrez,40-49,F,2020-09-01,2020-12-28,1
 santa.cruz,gutierrez,40-49,F,2020-09-01,2021-01-11,-1
@@ -8941,6 +8943,7 @@ santa.cruz,montero,>= 60,F,2022-01-01,2022-01-21,1
 santa.cruz,montero,>= 60,F,2022-01-01,2022-01-28,1
 santa.cruz,montero,>= 60,F,2022-02-01,2022-02-14,1
 santa.cruz,montero,>= 60,F,2022-08-01,2022-08-11,1
+santa.cruz,montero,>= 60,F,2022-08-01,2022-08-26,1
 santa.cruz,montero,>= 60,M,2020-03-01,2021-01-11,2
 santa.cruz,montero,>= 60,M,2020-04-01,2021-01-11,2
 santa.cruz,montero,>= 60,M,2020-05-01,2020-12-28,4
@@ -12286,6 +12289,7 @@ tarija,tarija,>= 60,F,2021-08-01,2021-12-21,5
 tarija,tarija,>= 60,F,2021-09-01,2022-02-09,1
 tarija,tarija,>= 60,F,2021-09-01,2022-02-12,2
 tarija,tarija,>= 60,F,2021-11-01,2022-08-25,1
+tarija,tarija,>= 60,F,2021-11-01,2022-08-26,1
 tarija,tarija,>= 60,F,2022-01-01,2022-02-03,1
 tarija,tarija,>= 60,F,2022-01-01,2022-02-23,1
 tarija,tarija,>= 60,F,2022-01-01,2022-06-23,2
