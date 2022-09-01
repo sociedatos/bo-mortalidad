@@ -527,6 +527,7 @@ chuquisaca,sucre,0-19,F,2021-05-01,2021-07-03,1
 chuquisaca,sucre,0-19,F,2021-08-01,2021-09-27,1
 chuquisaca,sucre,0-19,F,2021-12-01,2021-12-07,1
 chuquisaca,sucre,0-19,F,2022-01-01,2022-01-20,1
+chuquisaca,sucre,0-19,F,2022-01-01,2022-08-31,1
 chuquisaca,sucre,0-19,F,2022-08-01,2022-08-24,1
 chuquisaca,sucre,0-19,M,2020-07-01,2021-01-11,1
 chuquisaca,sucre,0-19,M,2020-08-01,2020-12-28,2
@@ -541,6 +542,7 @@ chuquisaca,sucre,0-19,M,2021-02-01,2021-03-07,1
 chuquisaca,sucre,0-19,M,2021-06-01,2021-09-09,1
 chuquisaca,sucre,0-19,M,2021-12-01,2022-04-13,1
 chuquisaca,sucre,0-19,M,2021-12-01,2022-04-23,-1
+chuquisaca,sucre,0-19,M,2022-01-01,2022-08-31,1
 chuquisaca,sucre,20-39,F,2020-05-01,2020-12-28,1
 chuquisaca,sucre,20-39,F,2020-08-01,2020-12-28,1
 chuquisaca,sucre,20-39,F,2020-08-01,2021-01-11,1
@@ -2510,6 +2512,7 @@ cochabamba,cochabamba,>= 60,M,2022-07-01,2022-08-01,2
 cochabamba,cochabamba,>= 60,M,2022-07-01,2022-08-03,1
 cochabamba,cochabamba,>= 60,M,2022-08-01,2022-08-12,1
 cochabamba,cochabamba,>= 60,M,2022-08-01,2022-08-19,1
+cochabamba,cochabamba,>= 60,M,2022-08-01,2022-08-31,1
 cochabamba,colcapirhua,20-39,F,2020-07-01,2020-12-28,1
 cochabamba,colcapirhua,20-39,F,2021-03-01,2021-04-12,1
 cochabamba,colcapirhua,20-39,M,2021-01-01,2021-02-02,1
@@ -2663,6 +2666,7 @@ cochabamba,mizque,>= 60,M,2022-02-01,2022-02-04,1
 cochabamba,morochata,40-49,M,2020-06-01,2021-01-11,1
 cochabamba,morochata,40-49,M,2020-11-01,2020-12-28,1
 cochabamba,morochata,40-49,M,2020-11-01,2021-01-11,-1
+cochabamba,morochata,>= 60,F,2021-07-01,2022-08-31,1
 cochabamba,morochata,>= 60,M,2021-06-01,2021-10-07,1
 cochabamba,omereque,>= 60,M,2020-07-01,2021-01-31,1
 cochabamba,omereque,>= 60,M,2021-02-01,2021-07-20,1
@@ -12190,6 +12194,7 @@ tarija,tarija,50-59,F,2021-06-01,2021-07-27,1
 tarija,tarija,50-59,F,2021-07-01,2021-10-04,1
 tarija,tarija,50-59,F,2021-07-01,2021-10-13,3
 tarija,tarija,50-59,F,2021-09-01,2022-02-07,1
+tarija,tarija,50-59,F,2022-07-01,2022-08-31,1
 tarija,tarija,50-59,M,2020-05-01,2020-12-28,1
 tarija,tarija,50-59,M,2020-06-01,2020-12-28,1
 tarija,tarija,50-59,M,2020-07-01,2020-12-28,1
@@ -12323,10 +12328,12 @@ tarija,tarija,>= 60,F,2022-01-01,2022-02-23,1
 tarija,tarija,>= 60,F,2022-01-01,2022-06-23,2
 tarija,tarija,>= 60,F,2022-01-01,2022-08-24,1
 tarija,tarija,>= 60,F,2022-01-01,2022-08-30,1
+tarija,tarija,>= 60,F,2022-01-01,2022-08-31,4
 tarija,tarija,>= 60,F,2022-02-01,2022-02-07,1
 tarija,tarija,>= 60,F,2022-02-01,2022-03-17,2
 tarija,tarija,>= 60,F,2022-02-01,2022-04-23,2
 tarija,tarija,>= 60,F,2022-04-01,2022-07-04,1
+tarija,tarija,>= 60,F,2022-07-01,2022-08-31,1
 tarija,tarija,>= 60,M,2020-04-01,2021-01-11,1
 tarija,tarija,>= 60,M,2020-05-01,2021-01-11,1
 tarija,tarija,>= 60,M,2020-06-01,2020-12-28,2
@@ -12419,6 +12426,7 @@ tarija,tarija,>= 60,M,2021-08-01,2021-12-21,4
 tarija,tarija,>= 60,M,2021-09-01,2022-02-12,2
 tarija,tarija,>= 60,M,2021-10-01,2021-12-14,1
 tarija,tarija,>= 60,M,2021-10-01,2021-12-17,1
+tarija,tarija,>= 60,M,2021-10-01,2022-08-31,2
 tarija,tarija,>= 60,M,2021-12-01,2022-01-05,1
 tarija,tarija,>= 60,M,2022-01-01,2022-01-17,1
 tarija,tarija,>= 60,M,2022-01-01,2022-01-28,2
@@ -12432,6 +12440,7 @@ tarija,tarija,>= 60,M,2022-01-01,2022-07-25,2
 tarija,tarija,>= 60,M,2022-01-01,2022-08-23,3
 tarija,tarija,>= 60,M,2022-01-01,2022-08-24,1
 tarija,tarija,>= 60,M,2022-01-01,2022-08-30,4
+tarija,tarija,>= 60,M,2022-01-01,2022-08-31,5
 tarija,tarija,>= 60,M,2022-02-01,2022-02-09,1
 tarija,tarija,>= 60,M,2022-02-01,2022-03-17,2
 tarija,tarija,>= 60,M,2022-02-01,2022-04-23,2
