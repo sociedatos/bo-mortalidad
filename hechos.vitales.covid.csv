@@ -534,6 +534,7 @@ chuquisaca,sucre,0-19,F,2021-12-01,2021-12-07,1
 chuquisaca,sucre,0-19,F,2022-01-01,2022-01-20,1
 chuquisaca,sucre,0-19,F,2022-01-01,2022-08-31,1
 chuquisaca,sucre,0-19,F,2022-01-01,2022-10-19,1
+chuquisaca,sucre,0-19,F,2022-01-01,2022-10-20,2
 chuquisaca,sucre,0-19,F,2022-08-01,2022-08-24,1
 chuquisaca,sucre,0-19,M,2020-07-01,2021-01-11,1
 chuquisaca,sucre,0-19,M,2020-08-01,2020-12-28,2
@@ -550,6 +551,7 @@ chuquisaca,sucre,0-19,M,2021-12-01,2022-04-13,1
 chuquisaca,sucre,0-19,M,2021-12-01,2022-04-23,-1
 chuquisaca,sucre,0-19,M,2022-01-01,2022-08-31,1
 chuquisaca,sucre,0-19,M,2022-01-01,2022-09-16,1
+chuquisaca,sucre,0-19,M,2022-01-01,2022-10-20,1
 chuquisaca,sucre,20-39,F,2020-05-01,2020-12-28,1
 chuquisaca,sucre,20-39,F,2020-08-01,2020-12-28,1
 chuquisaca,sucre,20-39,F,2020-08-01,2021-01-11,1
@@ -625,6 +627,7 @@ chuquisaca,sucre,40-49,M,2021-10-01,2021-11-23,1
 chuquisaca,sucre,40-49,M,2021-11-01,2021-11-22,1
 chuquisaca,sucre,40-49,M,2021-11-01,2021-11-25,1
 chuquisaca,sucre,40-49,M,2022-01-01,2022-10-19,1
+chuquisaca,sucre,40-49,M,2022-01-01,2022-10-20,1
 chuquisaca,sucre,50-59,F,2020-07-01,2021-01-11,2
 chuquisaca,sucre,50-59,F,2020-08-01,2020-12-28,4
 chuquisaca,sucre,50-59,F,2020-08-01,2021-01-11,-1
@@ -829,8 +832,10 @@ chuquisaca,sucre,>= 60,M,2022-01-01,2022-01-26,1
 chuquisaca,sucre,>= 60,M,2022-01-01,2022-01-28,1
 chuquisaca,sucre,>= 60,M,2022-01-01,2022-02-16,2
 chuquisaca,sucre,>= 60,M,2022-01-01,2022-10-19,3
+chuquisaca,sucre,>= 60,M,2022-01-01,2022-10-20,1
 chuquisaca,sucre,>= 60,M,2022-02-01,2022-02-04,1
 chuquisaca,sucre,>= 60,M,2022-02-01,2022-02-16,1
+chuquisaca,sucre,>= 60,M,2022-02-01,2022-10-20,1
 chuquisaca,tarabuco,50-59,F,2021-11-01,2021-12-01,1
 chuquisaca,tarabuco,>= 60,F,2021-07-01,2021-08-04,1
 chuquisaca,tarabuco,>= 60,F,2021-08-01,2021-09-02,1
@@ -3126,6 +3131,7 @@ cochabamba,sacaba,50-59,F,2021-06-01,2021-08-06,1
 cochabamba,sacaba,50-59,F,2021-06-01,2021-09-03,1
 cochabamba,sacaba,50-59,F,2021-12-01,2022-02-12,1
 cochabamba,sacaba,50-59,F,2022-01-01,2022-07-27,1
+cochabamba,sacaba,50-59,F,2022-01-01,2022-10-20,1
 cochabamba,sacaba,50-59,M,2020-04-01,2021-10-18,2
 cochabamba,sacaba,50-59,M,2020-05-01,2020-12-28,1
 cochabamba,sacaba,50-59,M,2020-05-01,2021-01-11,1
