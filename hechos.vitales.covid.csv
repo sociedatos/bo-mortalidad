@@ -2131,6 +2131,7 @@ cochabamba,cochabamba,>= 60,F,2022-08-01,2022-08-11,1
 cochabamba,cochabamba,>= 60,F,2022-08-01,2022-08-13,1
 cochabamba,cochabamba,>= 60,F,2022-08-01,2022-08-19,1
 cochabamba,cochabamba,>= 60,F,2022-08-01,2022-09-14,1
+cochabamba,cochabamba,>= 60,F,2022-10-01,2022-10-28,1
 cochabamba,cochabamba,>= 60,M,2020-03-01,2021-01-11,1
 cochabamba,cochabamba,>= 60,M,2020-04-01,2020-12-28,3
 cochabamba,cochabamba,>= 60,M,2020-04-01,2021-01-11,5
@@ -2622,6 +2623,7 @@ cochabamba,colomi,>= 60,F,2021-06-01,2021-09-21,3
 cochabamba,colomi,>= 60,F,2021-07-01,2021-08-10,1
 cochabamba,colomi,>= 60,F,2021-08-01,2022-10-12,1
 cochabamba,colomi,>= 60,F,2021-11-01,2022-10-12,1
+cochabamba,colomi,>= 60,F,2022-01-01,2022-10-28,2
 cochabamba,colomi,>= 60,M,2020-07-01,2021-07-20,1
 cochabamba,colomi,>= 60,M,2021-02-01,2021-09-21,1
 cochabamba,colomi,>= 60,M,2021-03-01,2021-09-21,2
@@ -2629,6 +2631,8 @@ cochabamba,colomi,>= 60,M,2021-04-01,2021-09-21,1
 cochabamba,colomi,>= 60,M,2021-05-01,2021-09-21,2
 cochabamba,colomi,>= 60,M,2021-07-01,2021-08-10,2
 cochabamba,colomi,>= 60,M,2021-11-01,2022-10-12,1
+cochabamba,colomi,>= 60,M,2022-01-01,2022-10-28,1
+cochabamba,colomi,>= 60,M,2022-02-01,2022-10-28,2
 cochabamba,cuchumuela (v. g. villarroel),20-39,F,2020-07-01,2021-01-11,1
 cochabamba,cuchumuela (v. g. villarroel),20-39,F,2020-10-01,2020-12-28,1
 cochabamba,cuchumuela (v. g. villarroel),20-39,F,2020-10-01,2021-01-11,-1
@@ -7551,6 +7555,7 @@ potosi,potosi,20-39,F,2021-08-01,2021-08-03,1
 potosi,potosi,20-39,F,2021-08-01,2021-08-30,1
 potosi,potosi,20-39,F,2021-10-01,2021-10-18,1
 potosi,potosi,20-39,F,2022-02-01,2022-02-09,1
+potosi,potosi,20-39,F,2022-10-01,2022-10-28,1
 potosi,potosi,20-39,M,2020-06-01,2021-01-11,1
 potosi,potosi,20-39,M,2020-07-01,2021-01-11,3
 potosi,potosi,20-39,M,2020-08-01,2021-01-11,3
@@ -9453,6 +9458,7 @@ santa.cruz,puerto quijarro,40-49,F,2020-08-01,2021-01-11,-2
 santa.cruz,puerto quijarro,40-49,M,2020-06-01,2021-01-11,1
 santa.cruz,puerto quijarro,40-49,M,2020-08-01,2020-12-28,1
 santa.cruz,puerto quijarro,40-49,M,2020-08-01,2021-01-11,-1
+santa.cruz,puerto quijarro,40-49,M,2021-05-01,2022-10-28,1
 santa.cruz,puerto quijarro,50-59,F,2020-06-01,2021-01-11,1
 santa.cruz,puerto quijarro,50-59,F,2020-08-01,2020-12-28,2
 santa.cruz,puerto quijarro,50-59,F,2020-08-01,2021-01-11,-1
@@ -11454,6 +11460,7 @@ santa.cruz,santa cruz de la sierra,>= 60,F,2022-08-01,2022-08-23,1
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-08-01,2022-09-14,3
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-09-01,2022-09-14,2
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-09-01,2022-09-30,1
+santa.cruz,santa cruz de la sierra,>= 60,F,2022-10-01,2022-10-28,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2020-12-28,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2021-01-11,8
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2021-02-22,1
