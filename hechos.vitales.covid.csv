@@ -6242,8 +6242,10 @@ la.paz,mocomoco,50-59,M,2020-08-01,2021-01-11,1
 la.paz,mocomoco,50-59,M,2020-10-01,2020-12-28,1
 la.paz,mocomoco,50-59,M,2020-10-01,2021-01-11,-1
 la.paz,mocomoco,>= 60,F,2021-07-01,2022-04-07,1
+la.paz,mocomoco,>= 60,F,2022-01-01,2022-11-12,1
 la.paz,mocomoco,>= 60,F,2022-02-01,2022-11-10,2
 la.paz,mocomoco,>= 60,M,2021-05-01,2022-03-27,1
+la.paz,mocomoco,>= 60,M,2022-01-01,2022-11-12,1
 la.paz,mocomoco,>= 60,M,2022-02-01,2022-11-10,1
 la.paz,municipio,>= 60,M,2021-03-01,2022-03-23,1
 la.paz,palca,>= 60,M,2020-08-01,2021-01-11,1
@@ -6344,6 +6346,7 @@ la.paz,pucarani,>= 60,M,2022-02-01,2022-08-04,1
 la.paz,puerto acosta,40-49,M,2020-06-01,2021-01-11,1
 la.paz,puerto acosta,40-49,M,2020-08-01,2020-12-28,1
 la.paz,puerto acosta,40-49,M,2020-08-01,2021-01-11,-1
+la.paz,puerto acosta,50-59,M,2022-01-01,2022-11-12,1
 la.paz,puerto acosta,>= 60,F,2022-01-01,2022-11-10,1
 la.paz,puerto acosta,>= 60,M,2020-07-01,2021-01-11,1
 la.paz,puerto acosta,>= 60,M,2020-10-01,2020-12-28,1
@@ -6355,6 +6358,7 @@ la.paz,puerto carabuco,>= 60,F,2021-06-01,2022-04-07,1
 la.paz,puerto carabuco,>= 60,M,2020-08-01,2021-01-11,1
 la.paz,puerto carabuco,>= 60,M,2020-10-01,2020-12-28,1
 la.paz,puerto carabuco,>= 60,M,2020-10-01,2021-01-11,-1
+la.paz,puerto carabuco,>= 60,M,2022-01-01,2022-11-12,1
 la.paz,puerto perez,>= 60,M,2021-05-01,2021-08-07,1
 la.paz,puerto perez,>= 60,M,2021-11-01,2022-03-03,1
 la.paz,quime,50-59,F,2020-08-01,2021-01-11,1
