@@ -134,6 +134,7 @@ beni,riberalta,>= 60,M,2021-06-01,2021-06-10,1
 beni,riberalta,>= 60,M,2022-02-01,2022-02-04,1
 beni,rurrenabaque,0-19,M,2020-08-01,2022-11-22,1
 beni,rurrenabaque,20-39,M,2020-10-01,2022-11-22,1
+beni,rurrenabaque,20-39,M,2021-06-01,2022-12-15,2
 beni,rurrenabaque,40-49,F,2020-10-01,2020-12-28,1
 beni,rurrenabaque,40-49,F,2021-06-01,2021-07-20,1
 beni,rurrenabaque,40-49,M,2020-08-01,2021-01-11,1
@@ -144,6 +145,7 @@ beni,rurrenabaque,50-59,F,2020-11-01,2020-12-28,1
 beni,rurrenabaque,50-59,F,2020-11-01,2021-01-11,-1
 beni,rurrenabaque,50-59,M,2020-07-01,2020-12-28,1
 beni,rurrenabaque,50-59,M,2020-09-01,2022-11-22,1
+beni,rurrenabaque,50-59,M,2021-06-01,2022-12-15,1
 beni,rurrenabaque,50-59,M,2021-07-01,2021-07-27,1
 beni,rurrenabaque,>= 60,F,2020-07-01,2020-12-28,1
 beni,rurrenabaque,>= 60,F,2020-08-01,2021-01-11,1
@@ -152,6 +154,7 @@ beni,rurrenabaque,>= 60,F,2020-09-01,2021-01-11,1
 beni,rurrenabaque,>= 60,F,2020-09-01,2022-11-22,2
 beni,rurrenabaque,>= 60,F,2020-10-01,2020-12-28,2
 beni,rurrenabaque,>= 60,F,2020-10-01,2021-01-11,-2
+beni,rurrenabaque,>= 60,F,2021-01-01,2022-12-15,1
 beni,rurrenabaque,>= 60,F,2021-03-01,2021-05-14,1
 beni,rurrenabaque,>= 60,F,2021-05-01,2021-06-11,1
 beni,rurrenabaque,>= 60,M,2020-07-01,2020-12-28,1
@@ -170,6 +173,9 @@ beni,rurrenabaque,>= 60,M,2021-03-01,2021-05-14,1
 beni,rurrenabaque,>= 60,M,2021-03-01,2021-05-19,1
 beni,rurrenabaque,>= 60,M,2021-04-01,2021-05-11,2
 beni,rurrenabaque,>= 60,M,2021-04-01,2021-07-28,1
+beni,rurrenabaque,>= 60,M,2021-05-01,2022-12-15,1
+beni,rurrenabaque,>= 60,M,2021-06-01,2022-12-15,2
+beni,rurrenabaque,>= 60,M,2021-07-01,2022-12-15,4
 beni,rurrenabaque,>= 60,M,2021-12-01,2021-12-29,1
 beni,rurrenabaque,>= 60,M,2021-12-01,2022-01-07,1
 beni,rurrenabaque,>= 60,M,2022-01-01,2022-01-07,1
@@ -5608,6 +5614,7 @@ la.paz,la paz,50-59,F,2021-12-01,2022-03-30,2
 la.paz,la paz,50-59,F,2022-01-01,2022-07-11,1
 la.paz,la paz,50-59,F,2022-02-01,2022-07-11,1
 la.paz,la paz,50-59,F,2022-05-01,2022-07-29,1
+la.paz,la paz,50-59,F,2022-05-01,2022-12-15,1
 la.paz,la paz,50-59,M,2020-06-01,2020-12-28,2
 la.paz,la paz,50-59,M,2020-06-01,2021-01-11,3
 la.paz,la paz,50-59,M,2020-06-01,2022-07-20,2
@@ -5988,6 +5995,7 @@ la.paz,la paz,>= 60,F,2022-06-01,2022-09-30,1
 la.paz,la paz,>= 60,F,2022-07-01,2022-08-02,1
 la.paz,la paz,>= 60,F,2022-07-01,2022-08-03,2
 la.paz,la paz,>= 60,F,2022-07-01,2022-12-14,1
+la.paz,la paz,>= 60,F,2022-08-01,2022-12-15,1
 la.paz,la paz,>= 60,M,2020-04-01,2021-01-11,4
 la.paz,la paz,>= 60,M,2020-04-01,2022-03-23,1
 la.paz,la paz,>= 60,M,2020-04-01,2022-07-20,3
@@ -6279,6 +6287,7 @@ la.paz,la paz,>= 60,M,2022-04-01,2022-08-03,1
 la.paz,la paz,>= 60,M,2022-07-01,2022-08-03,1
 la.paz,la paz,>= 60,M,2022-07-01,2022-10-14,1
 la.paz,la paz,>= 60,M,2022-08-01,2022-10-14,2
+la.paz,la paz,>= 60,M,2022-08-01,2022-12-15,1
 la.paz,la paz,>= 60,M,2022-09-01,2022-10-19,1
 la.paz,laja,>= 60,F,2020-08-01,2022-08-08,1
 la.paz,laja,>= 60,F,2021-01-01,2021-11-26,1
@@ -11584,6 +11593,7 @@ santa.cruz,santa cruz de la sierra,>= 60,F,2022-09-01,2022-09-14,2
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-09-01,2022-09-30,1
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-10-01,2022-10-28,1
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2022-12-14,4
+santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2022-12-15,2
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2020-12-28,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2021-01-11,8
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2021-02-22,1
@@ -12048,6 +12058,7 @@ santa.cruz,santa cruz de la sierra,>= 60,M,2022-09-01,2022-09-15,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-09-01,2022-09-16,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-11-01,2022-11-29,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-12-01,2022-12-14,1
+santa.cruz,santa cruz de la sierra,>= 60,M,2022-12-01,2022-12-15,1
 santa.cruz,santa rosa del sara,40-49,M,2020-07-01,2021-01-11,1
 santa.cruz,santa rosa del sara,40-49,M,2020-10-01,2020-12-28,1
 santa.cruz,santa rosa del sara,40-49,M,2020-10-01,2021-01-11,-1
