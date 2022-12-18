@@ -650,6 +650,7 @@ chuquisaca,sucre,20-39,M,2020-06-01,2020-12-28,2
 chuquisaca,sucre,20-39,M,2020-06-01,2021-01-11,1
 chuquisaca,sucre,20-39,M,2020-07-01,2021-01-11,1
 chuquisaca,sucre,20-39,M,2020-08-01,2020-12-28,1
+chuquisaca,sucre,20-39,M,2020-09-01,2022-12-17,1
 chuquisaca,sucre,20-39,M,2020-10-01,2020-12-28,2
 chuquisaca,sucre,20-39,M,2020-10-01,2021-01-11,-2
 chuquisaca,sucre,20-39,M,2020-12-01,2020-12-28,1
@@ -743,6 +744,7 @@ chuquisaca,sucre,50-59,M,2020-08-01,2020-12-28,9
 chuquisaca,sucre,50-59,M,2020-08-01,2021-01-11,1
 chuquisaca,sucre,50-59,M,2020-09-01,2020-12-28,3
 chuquisaca,sucre,50-59,M,2020-09-01,2021-01-11,-1
+chuquisaca,sucre,50-59,M,2020-09-01,2022-12-17,1
 chuquisaca,sucre,50-59,M,2020-10-01,2020-12-28,5
 chuquisaca,sucre,50-59,M,2020-10-01,2021-01-11,-4
 chuquisaca,sucre,50-59,M,2020-11-01,2020-12-28,1
@@ -757,6 +759,7 @@ chuquisaca,sucre,50-59,M,2021-04-01,2021-07-01,1
 chuquisaca,sucre,50-59,M,2021-05-01,2021-07-03,1
 chuquisaca,sucre,50-59,M,2021-05-01,2021-08-24,1
 chuquisaca,sucre,50-59,M,2021-05-01,2021-08-26,2
+chuquisaca,sucre,50-59,M,2021-05-01,2022-12-17,1
 chuquisaca,sucre,50-59,M,2021-06-01,2021-07-08,2
 chuquisaca,sucre,50-59,M,2021-06-01,2021-08-26,2
 chuquisaca,sucre,50-59,M,2021-06-01,2021-08-27,2
@@ -782,6 +785,7 @@ chuquisaca,sucre,>= 60,F,2020-08-01,2021-01-11,-3
 chuquisaca,sucre,>= 60,F,2020-08-01,2021-08-10,1
 chuquisaca,sucre,>= 60,F,2020-09-01,2020-12-28,4
 chuquisaca,sucre,>= 60,F,2020-09-01,2021-01-11,1
+chuquisaca,sucre,>= 60,F,2020-09-01,2022-12-17,1
 chuquisaca,sucre,>= 60,F,2020-10-01,2020-12-28,6
 chuquisaca,sucre,>= 60,F,2020-10-01,2021-01-11,-5
 chuquisaca,sucre,>= 60,F,2020-11-01,2020-12-28,1
@@ -864,6 +868,7 @@ chuquisaca,sucre,>= 60,M,2021-01-01,2021-02-24,2
 chuquisaca,sucre,>= 60,M,2021-01-01,2021-03-02,4
 chuquisaca,sucre,>= 60,M,2021-01-01,2021-03-03,3
 chuquisaca,sucre,>= 60,M,2021-01-01,2021-06-30,3
+chuquisaca,sucre,>= 60,M,2021-01-01,2022-12-17,1
 chuquisaca,sucre,>= 60,M,2021-02-01,2021-02-19,1
 chuquisaca,sucre,>= 60,M,2021-02-01,2021-03-07,2
 chuquisaca,sucre,>= 60,M,2021-02-01,2021-03-09,5
@@ -903,6 +908,7 @@ chuquisaca,sucre,>= 60,M,2021-06-01,2021-09-07,2
 chuquisaca,sucre,>= 60,M,2021-06-01,2021-09-08,2
 chuquisaca,sucre,>= 60,M,2021-06-01,2021-09-09,4
 chuquisaca,sucre,>= 60,M,2021-06-01,2021-09-10,2
+chuquisaca,sucre,>= 60,M,2021-06-01,2022-12-17,2
 chuquisaca,sucre,>= 60,M,2021-07-01,2021-07-08,1
 chuquisaca,sucre,>= 60,M,2021-07-01,2021-07-10,4
 chuquisaca,sucre,>= 60,M,2021-07-01,2021-07-14,1
@@ -5615,6 +5621,7 @@ la.paz,la paz,50-59,F,2022-01-01,2022-07-11,1
 la.paz,la paz,50-59,F,2022-02-01,2022-07-11,1
 la.paz,la paz,50-59,F,2022-05-01,2022-07-29,1
 la.paz,la paz,50-59,F,2022-05-01,2022-12-15,1
+la.paz,la paz,50-59,F,2022-07-01,2022-12-17,1
 la.paz,la paz,50-59,M,2020-06-01,2020-12-28,2
 la.paz,la paz,50-59,M,2020-06-01,2021-01-11,3
 la.paz,la paz,50-59,M,2020-06-01,2022-07-20,2
@@ -7550,6 +7557,7 @@ pando,cobija,>= 60,M,2020-07-01,2021-07-10,5
 pando,cobija,>= 60,M,2020-07-01,2021-07-15,13
 pando,cobija,>= 60,M,2020-07-01,2022-12-01,1
 pando,cobija,>= 60,M,2020-07-01,2022-12-14,-4
+pando,cobija,>= 60,M,2020-07-01,2022-12-17,1
 pando,cobija,>= 60,M,2020-08-01,2021-01-17,1
 pando,cobija,>= 60,M,2020-08-01,2021-07-16,8
 pando,cobija,>= 60,M,2020-08-01,2022-11-23,-1
@@ -7566,6 +7574,7 @@ pando,cobija,>= 60,M,2021-02-01,2021-08-11,1
 pando,cobija,>= 60,M,2021-03-01,2021-07-21,2
 pando,cobija,>= 60,M,2021-04-01,2021-08-02,3
 pando,cobija,>= 60,M,2021-04-01,2021-08-05,1
+pando,filadelfia,>= 60,M,2020-07-01,2022-12-17,1
 pando,nacebe (santa rosa del abuna),50-59,M,2020-08-01,2021-07-16,1
 pando,nacebe (santa rosa del abuna),>= 60,M,2020-07-01,2021-07-07,1
 pando,porvenir,>= 60,F,2020-06-01,2021-06-25,1
@@ -10931,6 +10940,7 @@ santa.cruz,santa cruz de la sierra,50-59,F,2022-02-01,2022-03-02,1
 santa.cruz,santa cruz de la sierra,50-59,F,2022-04-01,2022-04-14,1
 santa.cruz,santa cruz de la sierra,50-59,F,2022-04-01,2022-10-13,1
 santa.cruz,santa cruz de la sierra,50-59,F,2022-08-01,2022-08-03,1
+santa.cruz,santa cruz de la sierra,50-59,F,2022-12-01,2022-12-17,1
 santa.cruz,santa cruz de la sierra,50-59,M,2020-03-01,2021-01-11,1
 santa.cruz,santa cruz de la sierra,50-59,M,2020-04-01,2020-12-28,1
 santa.cruz,santa cruz de la sierra,50-59,M,2020-04-01,2021-01-11,3
