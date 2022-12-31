@@ -61,6 +61,7 @@ beni,guayaramerin,>= 60,M,2021-06-01,2021-06-04,1
 beni,guayaramerin,>= 60,M,2022-01-01,2022-01-10,1
 beni,municipio,>= 60,M,2021-06-01,2021-09-16,1
 beni,reyes,40-49,F,2021-12-01,2022-04-14,1
+beni,reyes,40-49,F,2022-12-01,2022-12-30,1
 beni,reyes,50-59,M,2020-08-01,2021-01-11,1
 beni,reyes,50-59,M,2020-09-01,2020-12-28,1
 beni,reyes,50-59,M,2020-09-01,2021-01-11,-1
@@ -6658,6 +6659,7 @@ oruro,challapata,50-59,F,2020-07-01,2021-01-11,1
 oruro,challapata,50-59,F,2020-08-01,2021-04-19,1
 oruro,challapata,50-59,F,2020-12-01,2020-12-28,1
 oruro,challapata,50-59,F,2020-12-01,2021-01-11,-1
+oruro,challapata,50-59,F,2022-01-01,2022-12-30,1
 oruro,challapata,50-59,M,2020-07-01,2021-04-19,1
 oruro,challapata,50-59,M,2021-01-01,2021-04-30,1
 oruro,challapata,>= 60,F,2020-06-01,2021-01-11,1
@@ -6681,6 +6683,8 @@ oruro,challapata,>= 60,M,2020-12-01,2021-01-11,-3
 oruro,challapata,>= 60,M,2021-01-01,2021-05-31,2
 oruro,challapata,>= 60,M,2021-02-01,2021-06-01,1
 oruro,challapata,>= 60,M,2021-02-01,2021-06-02,1
+oruro,challapata,>= 60,M,2022-01-01,2022-12-30,2
+oruro,challapata,>= 60,M,2022-02-01,2022-12-30,1
 oruro,choque cota,>= 60,F,2021-02-01,2021-12-22,1
 oruro,corque,20-39,F,2021-06-01,2022-01-25,1
 oruro,corque,20-39,M,2021-05-01,2022-01-25,1
@@ -7478,6 +7482,7 @@ oruro,totora(orr),20-39,M,2022-06-01,2022-12-21,1
 oruro,totora(orr),40-49,M,2020-08-01,2021-04-13,1
 oruro,totora(orr),>= 60,M,2020-07-01,2021-04-13,1
 oruro,totora(orr),>= 60,M,2021-01-01,2022-02-17,1
+pando,cobija,0-19,M,2022-02-01,2022-12-30,1
 pando,cobija,20-39,F,2020-06-01,2021-06-23,1
 pando,cobija,20-39,F,2020-07-01,2021-01-11,1
 pando,cobija,20-39,F,2020-07-01,2021-07-07,1
@@ -7485,6 +7490,7 @@ pando,cobija,20-39,F,2020-07-01,2021-07-08,1
 pando,cobija,20-39,F,2020-07-01,2021-07-15,4
 pando,cobija,20-39,F,2021-01-01,2021-01-06,1
 pando,cobija,20-39,F,2021-01-01,2021-01-11,-1
+pando,cobija,20-39,F,2022-02-01,2022-12-30,1
 pando,cobija,20-39,M,2020-06-01,2021-06-23,2
 pando,cobija,20-39,M,2020-07-01,2021-07-10,1
 pando,cobija,20-39,M,2020-07-01,2021-07-15,1
@@ -7492,6 +7498,7 @@ pando,cobija,20-39,M,2020-12-01,2022-07-25,1
 pando,cobija,20-39,M,2021-03-01,2021-07-21,4
 pando,cobija,20-39,M,2021-04-01,2021-08-03,1
 pando,cobija,20-39,M,2021-04-01,2021-08-04,1
+pando,cobija,20-39,M,2022-02-01,2022-12-30,1
 pando,cobija,40-49,F,2020-06-01,2021-01-11,2
 pando,cobija,40-49,F,2020-07-01,2021-07-07,1
 pando,cobija,40-49,F,2020-07-01,2021-07-14,1
@@ -7500,6 +7507,7 @@ pando,cobija,40-49,F,2020-09-01,2021-07-19,1
 pando,cobija,40-49,F,2020-12-01,2020-12-28,2
 pando,cobija,40-49,F,2020-12-01,2021-01-11,-2
 pando,cobija,40-49,F,2021-03-01,2021-07-21,1
+pando,cobija,40-49,F,2022-01-01,2022-12-30,1
 pando,cobija,40-49,F,2022-03-01,2022-12-29,1
 pando,cobija,40-49,M,2020-06-01,2021-01-11,1
 pando,cobija,40-49,M,2020-06-01,2021-06-22,2
@@ -7574,6 +7582,7 @@ pando,cobija,>= 60,F,2021-04-01,2021-08-02,1
 pando,cobija,>= 60,F,2021-04-01,2021-08-04,3
 pando,cobija,>= 60,F,2021-04-01,2021-08-09,1
 pando,cobija,>= 60,F,2021-05-01,2021-10-14,1
+pando,cobija,>= 60,F,2022-02-01,2022-12-30,1
 pando,cobija,>= 60,M,2020-04-01,2021-01-11,1
 pando,cobija,>= 60,M,2020-05-01,2021-01-11,1
 pando,cobija,>= 60,M,2020-05-01,2021-06-22,1
@@ -7610,6 +7619,7 @@ pando,cobija,>= 60,M,2021-02-01,2021-08-11,1
 pando,cobija,>= 60,M,2021-03-01,2021-07-21,2
 pando,cobija,>= 60,M,2021-04-01,2021-08-02,3
 pando,cobija,>= 60,M,2021-04-01,2021-08-05,1
+pando,cobija,>= 60,M,2022-02-01,2022-12-30,2
 pando,cobija,>= 60,M,2022-04-01,2022-12-29,1
 pando,filadelfia,>= 60,M,2020-07-01,2022-12-17,1
 pando,nacebe (santa rosa del abuna),50-59,M,2020-08-01,2021-07-16,1
@@ -10133,6 +10143,7 @@ santa.cruz,santa cruz de la sierra,0-19,F,2022-12-01,2022-12-14,1
 santa.cruz,santa cruz de la sierra,0-19,F,2022-12-01,2022-12-22,1
 santa.cruz,santa cruz de la sierra,0-19,F,2022-12-01,2022-12-27,1
 santa.cruz,santa cruz de la sierra,0-19,F,2022-12-01,2022-12-28,-1
+santa.cruz,santa cruz de la sierra,0-19,F,2022-12-01,2022-12-30,1
 santa.cruz,santa cruz de la sierra,0-19,M,2020-04-01,2020-12-28,1
 santa.cruz,santa cruz de la sierra,0-19,M,2020-04-01,2021-01-11,3
 santa.cruz,santa cruz de la sierra,0-19,M,2020-05-01,2020-12-28,3
@@ -11655,6 +11666,7 @@ santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2022-12-19,2
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2022-12-20,2
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2022-12-22,1
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2022-12-28,2
+santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2022-12-30,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2020-12-28,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2021-01-11,8
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2021-02-22,1
@@ -12124,6 +12136,7 @@ santa.cruz,santa cruz de la sierra,>= 60,M,2022-12-01,2022-12-19,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-12-01,2022-12-20,2
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-12-01,2022-12-27,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2022-12-01,2022-12-28,2
+santa.cruz,santa cruz de la sierra,>= 60,M,2022-12-01,2022-12-30,3
 santa.cruz,santa rosa del sara,40-49,M,2020-07-01,2021-01-11,1
 santa.cruz,santa rosa del sara,40-49,M,2020-10-01,2020-12-28,1
 santa.cruz,santa rosa del sara,40-49,M,2020-10-01,2021-01-11,-1
