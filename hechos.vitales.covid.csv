@@ -204,22 +204,28 @@ beni,san ignacio,>= 60,M,2020-08-01,2021-01-11,-2
 beni,san ignacio,>= 60,M,2021-05-01,2021-05-04,1
 beni,san joaquin,20-39,F,2021-03-01,2022-12-21,1
 beni,san joaquin,>= 60,F,2021-03-01,2022-12-21,1
+beni,san joaquin,>= 60,F,2021-04-01,2023-01-04,1
 beni,san joaquin,>= 60,M,2020-07-01,2022-11-22,1
 beni,san joaquin,>= 60,M,2021-04-01,2022-12-21,1
 beni,san ramon beni,0-19,F,2020-08-01,2022-11-23,1
 beni,san ramon beni,40-49,F,2020-05-01,2022-11-22,1
 beni,san ramon beni,40-49,M,2020-06-01,2022-11-22,1
 beni,san ramon beni,40-49,M,2020-08-01,2022-11-23,1
+beni,san ramon beni,40-49,M,2021-05-01,2023-01-04,1
 beni,san ramon beni,50-59,F,2021-04-01,2021-12-09,1
 beni,san ramon beni,50-59,M,2020-05-01,2022-11-22,1
 beni,san ramon beni,50-59,M,2020-05-01,2022-11-23,1
 beni,san ramon beni,50-59,M,2020-06-01,2022-11-22,1
 beni,san ramon beni,>= 60,F,2020-06-01,2022-11-22,4
+beni,san ramon beni,>= 60,F,2021-04-01,2023-01-04,1
+beni,san ramon beni,>= 60,F,2021-05-01,2023-01-04,3
+beni,san ramon beni,>= 60,F,2021-06-01,2023-01-04,1
 beni,san ramon beni,>= 60,M,2020-05-01,2022-11-22,2
 beni,san ramon beni,>= 60,M,2020-06-01,2022-11-22,10
 beni,san ramon beni,>= 60,M,2020-07-01,2022-11-22,1
 beni,san ramon beni,>= 60,M,2020-08-01,2022-11-23,1
 beni,san ramon beni,>= 60,M,2021-02-01,2021-12-09,1
+beni,san ramon beni,>= 60,M,2021-05-01,2023-01-04,1
 beni,santa ana,20-39,F,2020-07-01,2021-01-20,2
 beni,santa ana,40-49,F,2020-06-01,2021-01-22,1
 beni,santa ana,40-49,F,2020-07-01,2021-01-22,1
@@ -2251,6 +2257,7 @@ cochabamba,cochabamba,>= 60,F,2022-08-01,2022-09-14,1
 cochabamba,cochabamba,>= 60,F,2022-10-01,2022-10-28,1
 cochabamba,cochabamba,>= 60,F,2022-10-01,2022-11-09,-1
 cochabamba,cochabamba,>= 60,F,2022-12-01,2023-01-02,1
+cochabamba,cochabamba,>= 60,F,2022-12-01,2023-01-04,1
 cochabamba,cochabamba,>= 60,M,2020-03-01,2021-01-11,1
 cochabamba,cochabamba,>= 60,M,2020-04-01,2020-12-28,3
 cochabamba,cochabamba,>= 60,M,2020-04-01,2021-01-11,5
@@ -4264,6 +4271,7 @@ la.paz,el alto,20-39,F,2021-12-01,2022-02-23,1
 la.paz,el alto,20-39,F,2021-12-01,2022-09-14,1
 la.paz,el alto,20-39,F,2022-01-01,2022-02-04,1
 la.paz,el alto,20-39,F,2022-02-01,2022-07-20,1
+la.paz,el alto,20-39,F,2022-02-01,2023-01-04,1
 la.paz,el alto,20-39,F,2022-04-01,2022-07-29,1
 la.paz,el alto,20-39,M,2020-06-01,2020-12-28,1
 la.paz,el alto,20-39,M,2020-06-01,2021-01-11,2
@@ -4903,6 +4911,7 @@ la.paz,el alto,>= 60,F,2022-02-01,2022-07-04,1
 la.paz,el alto,>= 60,F,2022-02-01,2022-07-27,1
 la.paz,el alto,>= 60,F,2022-02-01,2022-07-28,3
 la.paz,el alto,>= 60,F,2022-02-01,2022-07-29,4
+la.paz,el alto,>= 60,F,2022-02-01,2023-01-04,-1
 la.paz,el alto,>= 60,F,2022-03-01,2022-03-23,1
 la.paz,el alto,>= 60,F,2022-03-01,2022-03-27,1
 la.paz,el alto,>= 60,F,2022-08-01,2022-08-17,1
@@ -7512,6 +7521,7 @@ pando,cobija,40-49,F,2020-12-01,2020-12-28,2
 pando,cobija,40-49,F,2020-12-01,2021-01-11,-2
 pando,cobija,40-49,F,2021-03-01,2021-07-21,1
 pando,cobija,40-49,F,2022-01-01,2022-12-30,1
+pando,cobija,40-49,F,2022-02-01,2023-01-04,1
 pando,cobija,40-49,F,2022-03-01,2022-12-29,1
 pando,cobija,40-49,M,2020-06-01,2021-01-11,1
 pando,cobija,40-49,M,2020-06-01,2021-06-22,2
@@ -7526,6 +7536,7 @@ pando,cobija,40-49,M,2021-01-01,2021-08-17,1
 pando,cobija,40-49,M,2021-04-01,2021-07-28,1
 pando,cobija,40-49,M,2021-04-01,2021-07-29,2
 pando,cobija,40-49,M,2022-01-01,2023-01-03,1
+pando,cobija,40-49,M,2022-01-01,2023-01-04,1
 pando,cobija,50-59,F,2020-06-01,2021-06-23,3
 pando,cobija,50-59,F,2020-07-01,2021-06-29,1
 pando,cobija,50-59,F,2020-07-01,2021-06-30,1
@@ -7559,6 +7570,8 @@ pando,cobija,50-59,M,2021-03-01,2021-07-21,2
 pando,cobija,50-59,M,2021-04-01,2021-07-29,1
 pando,cobija,50-59,M,2021-05-01,2021-10-15,1
 pando,cobija,50-59,M,2022-01-01,2023-01-03,1
+pando,cobija,50-59,M,2022-01-01,2023-01-04,1
+pando,cobija,50-59,M,2022-02-01,2023-01-04,1
 pando,cobija,>= 60,D,2020-06-01,2021-06-22,1
 pando,cobija,>= 60,D,2020-07-01,2021-07-16,1
 pando,cobija,>= 60,D,2020-08-01,2022-11-22,1
@@ -7629,8 +7642,10 @@ pando,cobija,>= 60,M,2021-04-01,2021-08-02,3
 pando,cobija,>= 60,M,2021-04-01,2021-08-05,1
 pando,cobija,>= 60,M,2022-01-01,2022-12-31,1
 pando,cobija,>= 60,M,2022-01-01,2023-01-02,1
+pando,cobija,>= 60,M,2022-01-01,2023-01-04,2
 pando,cobija,>= 60,M,2022-02-01,2022-12-30,2
 pando,cobija,>= 60,M,2022-02-01,2023-01-03,1
+pando,cobija,>= 60,M,2022-02-01,2023-01-04,1
 pando,cobija,>= 60,M,2022-04-01,2022-12-29,1
 pando,filadelfia,>= 60,M,2020-07-01,2022-12-17,1
 pando,nacebe (santa rosa del abuna),50-59,M,2020-08-01,2021-07-16,1
