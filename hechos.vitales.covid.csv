@@ -59,6 +59,18 @@ beni,guayaramerin,>= 60,M,2021-04-01,2021-04-13,4
 beni,guayaramerin,>= 60,M,2021-04-01,2021-04-26,1
 beni,guayaramerin,>= 60,M,2021-06-01,2021-06-04,1
 beni,guayaramerin,>= 60,M,2022-01-01,2022-01-10,1
+beni,huaracaje,0-19,M,2021-01-01,2023-01-05,1
+beni,huaracaje,40-49,F,2021-02-01,2023-01-05,1
+beni,huaracaje,50-59,F,2021-12-01,2023-01-05,1
+beni,huaracaje,>= 60,F,2021-02-01,2023-01-05,1
+beni,huaracaje,>= 60,M,2021-01-01,2023-01-05,3
+beni,huaracaje,>= 60,M,2021-02-01,2023-01-05,1
+beni,huaracaje,>= 60,M,2021-06-01,2023-01-05,1
+beni,magdalena,40-49,M,2021-01-01,2023-01-05,2
+beni,magdalena,>= 60,F,2021-01-01,2023-01-05,1
+beni,magdalena,>= 60,M,2021-01-01,2023-01-05,4
+beni,magdalena,>= 60,M,2021-02-01,2023-01-05,3
+beni,municipio,>= 60,F,2021-05-01,2023-01-05,1
 beni,municipio,>= 60,M,2021-06-01,2021-09-16,1
 beni,reyes,40-49,F,2021-12-01,2022-04-14,1
 beni,reyes,40-49,F,2022-12-01,2022-12-30,1
@@ -72,6 +84,7 @@ beni,reyes,>= 60,F,2020-09-01,2021-04-23,1
 beni,reyes,>= 60,F,2020-10-01,2021-02-24,1
 beni,reyes,>= 60,F,2020-11-01,2021-02-24,1
 beni,reyes,>= 60,F,2021-01-01,2021-02-24,1
+beni,reyes,>= 60,F,2021-04-01,2023-01-05,1
 beni,reyes,>= 60,M,2020-08-01,2021-01-11,4
 beni,reyes,>= 60,M,2020-09-01,2020-12-28,6
 beni,reyes,>= 60,M,2020-09-01,2021-01-11,-4
@@ -285,9 +298,11 @@ beni,trinidad,40-49,F,2020-09-01,2021-01-11,-1
 beni,trinidad,40-49,F,2021-01-01,2021-01-20,1
 beni,trinidad,40-49,F,2021-01-01,2021-05-25,1
 beni,trinidad,40-49,F,2021-01-01,2022-12-14,1
+beni,trinidad,40-49,F,2021-01-01,2023-01-05,1
 beni,trinidad,40-49,F,2021-04-01,2021-04-15,1
 beni,trinidad,40-49,F,2021-04-01,2021-04-29,1
 beni,trinidad,40-49,F,2021-05-01,2021-05-25,1
+beni,trinidad,40-49,F,2021-05-01,2023-01-05,1
 beni,trinidad,40-49,F,2021-06-01,2022-11-25,1
 beni,trinidad,40-49,F,2021-09-01,2021-09-21,1
 beni,trinidad,40-49,M,2020-05-01,2021-01-11,1
@@ -303,6 +318,7 @@ beni,trinidad,40-49,M,2020-11-01,2021-01-11,-1
 beni,trinidad,40-49,M,2021-01-01,2021-01-19,1
 beni,trinidad,40-49,M,2021-01-01,2021-01-21,1
 beni,trinidad,40-49,M,2021-01-01,2022-11-28,1
+beni,trinidad,40-49,M,2021-01-01,2023-01-05,1
 beni,trinidad,40-49,M,2021-02-01,2021-02-19,1
 beni,trinidad,40-49,M,2021-04-01,2021-04-14,1
 beni,trinidad,40-49,M,2021-05-01,2021-05-05,1
@@ -360,6 +376,7 @@ beni,trinidad,50-59,M,2021-06-01,2022-11-28,1
 beni,trinidad,50-59,M,2021-06-01,2022-12-14,3
 beni,trinidad,50-59,M,2021-07-01,2021-07-14,1
 beni,trinidad,50-59,M,2021-08-01,2022-12-14,1
+beni,trinidad,50-59,M,2021-12-01,2023-01-05,1
 beni,trinidad,>= 60,F,2020-03-01,2021-01-11,1
 beni,trinidad,>= 60,F,2020-04-01,2022-07-04,1
 beni,trinidad,>= 60,F,2020-04-01,2022-11-23,2
@@ -385,6 +402,7 @@ beni,trinidad,>= 60,F,2021-01-01,2021-01-20,1
 beni,trinidad,>= 60,F,2021-01-01,2021-01-21,1
 beni,trinidad,>= 60,F,2021-01-01,2021-01-26,1
 beni,trinidad,>= 60,F,2021-01-01,2022-11-28,2
+beni,trinidad,>= 60,F,2021-01-01,2023-01-05,1
 beni,trinidad,>= 60,F,2021-02-01,2021-02-18,1
 beni,trinidad,>= 60,F,2021-02-01,2021-02-23,1
 beni,trinidad,>= 60,F,2021-03-01,2021-05-04,1
@@ -399,6 +417,7 @@ beni,trinidad,>= 60,F,2021-05-01,2021-07-11,1
 beni,trinidad,>= 60,F,2021-05-01,2022-11-25,1
 beni,trinidad,>= 60,F,2021-05-01,2022-11-28,2
 beni,trinidad,>= 60,F,2021-05-01,2022-12-14,1
+beni,trinidad,>= 60,F,2021-05-01,2023-01-05,1
 beni,trinidad,>= 60,F,2021-06-01,2021-06-07,1
 beni,trinidad,>= 60,F,2021-06-01,2021-07-01,2
 beni,trinidad,>= 60,F,2021-06-01,2021-07-10,1
@@ -452,6 +471,7 @@ beni,trinidad,>= 60,M,2021-02-01,2021-02-26,3
 beni,trinidad,>= 60,M,2021-02-01,2022-11-28,4
 beni,trinidad,>= 60,M,2021-02-01,2022-12-14,1
 beni,trinidad,>= 60,M,2021-03-01,2021-04-06,2
+beni,trinidad,>= 60,M,2021-03-01,2023-01-05,1
 beni,trinidad,>= 60,M,2021-04-01,2021-04-13,2
 beni,trinidad,>= 60,M,2021-04-01,2021-04-29,1
 beni,trinidad,>= 60,M,2021-04-01,2021-04-30,1
@@ -467,11 +487,13 @@ beni,trinidad,>= 60,M,2021-05-01,2021-07-11,1
 beni,trinidad,>= 60,M,2021-05-01,2021-09-15,1
 beni,trinidad,>= 60,M,2021-05-01,2022-11-28,3
 beni,trinidad,>= 60,M,2021-05-01,2022-12-14,6
+beni,trinidad,>= 60,M,2021-05-01,2023-01-05,1
 beni,trinidad,>= 60,M,2021-06-01,2021-06-30,1
 beni,trinidad,>= 60,M,2021-06-01,2021-07-02,1
 beni,trinidad,>= 60,M,2021-06-01,2021-07-10,4
 beni,trinidad,>= 60,M,2021-06-01,2022-11-25,1
 beni,trinidad,>= 60,M,2021-06-01,2022-12-14,1
+beni,trinidad,>= 60,M,2021-06-01,2023-01-05,1
 beni,trinidad,>= 60,M,2021-12-01,2021-12-17,1
 beni,trinidad,>= 60,M,2021-12-01,2022-12-14,1
 beni,trinidad,>= 60,M,2022-01-01,2022-02-09,1
@@ -2258,6 +2280,7 @@ cochabamba,cochabamba,>= 60,F,2022-10-01,2022-10-28,1
 cochabamba,cochabamba,>= 60,F,2022-10-01,2022-11-09,-1
 cochabamba,cochabamba,>= 60,F,2022-12-01,2023-01-02,1
 cochabamba,cochabamba,>= 60,F,2022-12-01,2023-01-04,1
+cochabamba,cochabamba,>= 60,F,2022-12-01,2023-01-05,1
 cochabamba,cochabamba,>= 60,M,2020-03-01,2021-01-11,1
 cochabamba,cochabamba,>= 60,M,2020-04-01,2020-12-28,3
 cochabamba,cochabamba,>= 60,M,2020-04-01,2021-01-11,5
@@ -4904,6 +4927,7 @@ la.paz,el alto,>= 60,F,2022-01-01,2022-08-01,4
 la.paz,el alto,>= 60,F,2022-01-01,2022-08-02,4
 la.paz,el alto,>= 60,F,2022-01-01,2022-08-03,1
 la.paz,el alto,>= 60,F,2022-01-01,2022-08-15,3
+la.paz,el alto,>= 60,F,2022-01-01,2023-01-05,1
 la.paz,el alto,>= 60,F,2022-02-01,2022-02-09,2
 la.paz,el alto,>= 60,F,2022-02-01,2022-02-16,1
 la.paz,el alto,>= 60,F,2022-02-01,2022-02-22,1
@@ -11697,6 +11721,8 @@ santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2022-12-22,1
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2022-12-28,2
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2022-12-30,1
 santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2023-01-03,1
+santa.cruz,santa cruz de la sierra,>= 60,F,2022-12-01,2023-01-05,1
+santa.cruz,santa cruz de la sierra,>= 60,F,2023-01-01,2023-01-05,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2020-12-28,1
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2021-01-11,8
 santa.cruz,santa cruz de la sierra,>= 60,M,2020-04-01,2021-02-22,1
