@@ -9,17 +9,20 @@ beni,guayaramerin,40-49,F,2021-03-01,2021-03-13,1
 beni,guayaramerin,40-49,F,2021-03-01,2021-03-31,1
 beni,guayaramerin,40-49,F,2021-04-01,2021-04-06,1
 beni,guayaramerin,40-49,F,2021-04-01,2021-04-15,1
+beni,guayaramerin,40-49,F,2021-04-01,2023-03-23,1
 beni,guayaramerin,40-49,M,2020-06-01,2020-12-28,1
 beni,guayaramerin,40-49,M,2020-06-01,2022-12-14,1
 beni,guayaramerin,40-49,M,2021-03-01,2021-03-08,1
 beni,guayaramerin,40-49,M,2021-04-01,2021-04-13,1
 beni,guayaramerin,40-49,M,2021-05-01,2021-05-25,1
+beni,guayaramerin,40-49,M,2021-05-01,2023-03-23,2
 beni,guayaramerin,50-59,F,2020-06-01,2020-12-28,2
 beni,guayaramerin,50-59,F,2021-02-01,2021-02-22,1
 beni,guayaramerin,50-59,F,2021-03-01,2021-03-23,1
 beni,guayaramerin,50-59,F,2021-03-01,2021-03-30,1
 beni,guayaramerin,50-59,F,2021-04-01,2021-04-13,1
 beni,guayaramerin,50-59,F,2021-04-01,2021-04-20,1
+beni,guayaramerin,50-59,F,2021-04-01,2023-03-23,5
 beni,guayaramerin,50-59,M,2020-05-01,2020-12-28,1
 beni,guayaramerin,50-59,M,2020-06-01,2020-12-28,5
 beni,guayaramerin,50-59,M,2020-06-01,2023-03-06,1
@@ -31,7 +34,9 @@ beni,guayaramerin,50-59,M,2021-04-01,2021-04-13,1
 beni,guayaramerin,50-59,M,2021-04-01,2021-04-21,1
 beni,guayaramerin,50-59,M,2021-04-01,2021-04-22,1
 beni,guayaramerin,50-59,M,2021-04-01,2021-04-27,1
+beni,guayaramerin,50-59,M,2021-04-01,2023-03-23,6
 beni,guayaramerin,50-59,M,2021-05-01,2021-05-17,1
+beni,guayaramerin,50-59,M,2021-05-01,2023-03-23,1
 beni,guayaramerin,50-59,M,2022-08-01,2023-03-07,1
 beni,guayaramerin,>= 60,F,2020-05-01,2020-12-28,1
 beni,guayaramerin,>= 60,F,2020-06-01,2020-12-28,7
@@ -45,6 +50,8 @@ beni,guayaramerin,>= 60,F,2021-03-01,2021-03-11,1
 beni,guayaramerin,>= 60,F,2021-03-01,2021-03-25,1
 beni,guayaramerin,>= 60,F,2021-03-01,2021-03-30,3
 beni,guayaramerin,>= 60,F,2021-04-01,2021-04-13,1
+beni,guayaramerin,>= 60,F,2021-04-01,2023-03-23,6
+beni,guayaramerin,>= 60,F,2021-05-01,2023-03-23,1
 beni,guayaramerin,>= 60,F,2022-07-01,2022-08-01,1
 beni,guayaramerin,>= 60,M,2020-05-01,2022-12-19,1
 beni,guayaramerin,>= 60,M,2020-06-01,2020-12-28,10
@@ -63,6 +70,7 @@ beni,guayaramerin,>= 60,M,2021-04-01,2021-04-01,1
 beni,guayaramerin,>= 60,M,2021-04-01,2021-04-06,1
 beni,guayaramerin,>= 60,M,2021-04-01,2021-04-13,4
 beni,guayaramerin,>= 60,M,2021-04-01,2021-04-26,1
+beni,guayaramerin,>= 60,M,2021-04-01,2023-03-23,6
 beni,guayaramerin,>= 60,M,2021-06-01,2021-06-04,1
 beni,guayaramerin,>= 60,M,2021-06-01,2023-03-06,1
 beni,guayaramerin,>= 60,M,2021-06-01,2023-03-22,2
@@ -1795,6 +1803,7 @@ cochabamba,cochabamba,50-59,M,2020-06-01,2020-12-28,27
 cochabamba,cochabamba,50-59,M,2020-06-01,2021-01-11,21
 cochabamba,cochabamba,50-59,M,2020-06-01,2021-02-07,1
 cochabamba,cochabamba,50-59,M,2020-06-01,2021-02-15,2
+cochabamba,cochabamba,50-59,M,2020-06-01,2023-03-23,1
 cochabamba,cochabamba,50-59,M,2020-07-01,2020-12-28,74
 cochabamba,cochabamba,50-59,M,2020-07-01,2021-01-11,6
 cochabamba,cochabamba,50-59,M,2020-07-01,2021-02-12,1
@@ -1804,6 +1813,7 @@ cochabamba,cochabamba,50-59,M,2020-08-01,2020-12-28,40
 cochabamba,cochabamba,50-59,M,2020-08-01,2021-01-11,-16
 cochabamba,cochabamba,50-59,M,2020-08-01,2021-06-01,1
 cochabamba,cochabamba,50-59,M,2020-08-01,2022-07-27,2
+cochabamba,cochabamba,50-59,M,2020-08-01,2023-03-23,1
 cochabamba,cochabamba,50-59,M,2020-09-01,2020-12-28,15
 cochabamba,cochabamba,50-59,M,2020-09-01,2021-01-11,-10
 cochabamba,cochabamba,50-59,M,2020-09-01,2021-05-28,1
@@ -1998,9 +2008,11 @@ cochabamba,cochabamba,>= 60,F,2020-08-01,2021-07-22,1
 cochabamba,cochabamba,>= 60,F,2020-08-01,2021-07-28,1
 cochabamba,cochabamba,>= 60,F,2020-08-01,2022-07-25,5
 cochabamba,cochabamba,>= 60,F,2020-08-01,2022-07-27,5
+cochabamba,cochabamba,>= 60,F,2020-08-01,2023-03-23,2
 cochabamba,cochabamba,>= 60,F,2020-09-01,2020-12-28,21
 cochabamba,cochabamba,>= 60,F,2020-09-01,2021-01-11,-7
 cochabamba,cochabamba,>= 60,F,2020-09-01,2021-07-07,1
+cochabamba,cochabamba,>= 60,F,2020-09-01,2023-03-23,1
 cochabamba,cochabamba,>= 60,F,2020-10-01,2020-12-28,12
 cochabamba,cochabamba,>= 60,F,2020-10-01,2021-01-11,-6
 cochabamba,cochabamba,>= 60,F,2020-10-01,2021-02-08,1
@@ -2012,6 +2024,7 @@ cochabamba,cochabamba,>= 60,F,2020-12-01,2020-12-29,1
 cochabamba,cochabamba,>= 60,F,2020-12-01,2021-01-11,1
 cochabamba,cochabamba,>= 60,F,2020-12-01,2021-03-25,1
 cochabamba,cochabamba,>= 60,F,2020-12-01,2022-03-23,1
+cochabamba,cochabamba,>= 60,F,2020-12-01,2023-03-23,1
 cochabamba,cochabamba,>= 60,F,2021-01-01,2021-01-06,1
 cochabamba,cochabamba,>= 60,F,2021-01-01,2021-01-11,-1
 cochabamba,cochabamba,>= 60,F,2021-01-01,2021-01-17,6
@@ -3513,6 +3526,8 @@ cochabamba,santivanes,>= 60,M,2020-10-01,2020-12-28,1
 cochabamba,santivanes,>= 60,M,2020-10-01,2021-01-11,-1
 cochabamba,santivanes,>= 60,M,2021-04-01,2021-09-09,1
 cochabamba,santivanes,>= 60,M,2021-07-01,2021-09-09,1
+cochabamba,santivanes,>= 60,M,2022-01-01,2023-03-23,1
+cochabamba,santivanes,>= 60,M,2022-02-01,2023-03-23,1
 cochabamba,shinaota,0-19,M,2020-07-01,2020-12-28,1
 cochabamba,shinaota,0-19,M,2020-07-01,2022-02-04,-1
 cochabamba,shinaota,20-39,M,2021-07-01,2021-07-07,1
@@ -6396,6 +6411,7 @@ la.paz,la paz,>= 60,M,2022-01-01,2022-08-02,2
 la.paz,la paz,>= 60,M,2022-01-01,2022-08-26,1
 la.paz,la paz,>= 60,M,2022-01-01,2023-03-06,7
 la.paz,la paz,>= 60,M,2022-01-01,2023-03-17,4
+la.paz,la paz,>= 60,M,2022-01-01,2023-03-23,1
 la.paz,la paz,>= 60,M,2022-02-01,2022-03-23,3
 la.paz,la paz,>= 60,M,2022-02-01,2022-07-08,3
 la.paz,la paz,>= 60,M,2022-02-01,2022-07-11,6
@@ -6410,6 +6426,7 @@ la.paz,la paz,>= 60,M,2022-04-01,2022-08-03,1
 la.paz,la paz,>= 60,M,2022-07-01,2022-08-03,1
 la.paz,la paz,>= 60,M,2022-07-01,2022-10-14,1
 la.paz,la paz,>= 60,M,2022-07-01,2023-03-06,2
+la.paz,la paz,>= 60,M,2022-07-01,2023-03-23,1
 la.paz,la paz,>= 60,M,2022-08-01,2022-10-14,2
 la.paz,la paz,>= 60,M,2022-08-01,2022-12-15,1
 la.paz,la paz,>= 60,M,2022-08-01,2023-03-06,3
