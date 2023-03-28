@@ -6,6 +6,7 @@ beni,guayaramerin,20-39,F,2022-01-01,2022-01-18,1
 beni,guayaramerin,20-39,F,2022-01-01,2023-03-14,1
 beni,guayaramerin,20-39,M,2020-06-01,2020-12-28,2
 beni,guayaramerin,40-49,F,2021-02-01,2021-02-25,1
+beni,guayaramerin,40-49,F,2021-02-01,2023-03-27,1
 beni,guayaramerin,40-49,F,2021-03-01,2021-03-13,1
 beni,guayaramerin,40-49,F,2021-03-01,2021-03-31,1
 beni,guayaramerin,40-49,F,2021-03-01,2023-03-24,3
@@ -23,6 +24,7 @@ beni,guayaramerin,40-49,M,2021-05-01,2021-05-25,1
 beni,guayaramerin,40-49,M,2021-05-01,2023-03-23,2
 beni,guayaramerin,50-59,F,2020-06-01,2020-12-28,2
 beni,guayaramerin,50-59,F,2021-02-01,2021-02-22,1
+beni,guayaramerin,50-59,F,2021-02-01,2023-03-27,1
 beni,guayaramerin,50-59,F,2021-03-01,2021-03-23,1
 beni,guayaramerin,50-59,F,2021-03-01,2021-03-30,1
 beni,guayaramerin,50-59,F,2021-03-01,2023-03-24,3
@@ -34,7 +36,9 @@ beni,guayaramerin,50-59,M,2020-06-01,2020-12-28,5
 beni,guayaramerin,50-59,M,2020-06-01,2023-03-06,1
 beni,guayaramerin,50-59,M,2020-07-01,2020-12-28,1
 beni,guayaramerin,50-59,M,2021-01-01,2021-02-01,2
+beni,guayaramerin,50-59,M,2021-01-01,2023-03-27,2
 beni,guayaramerin,50-59,M,2021-02-01,2021-02-11,1
+beni,guayaramerin,50-59,M,2021-02-01,2023-03-27,1
 beni,guayaramerin,50-59,M,2021-03-01,2021-03-02,1
 beni,guayaramerin,50-59,M,2021-03-01,2023-03-24,3
 beni,guayaramerin,50-59,M,2021-04-01,2021-04-13,1
@@ -53,6 +57,7 @@ beni,guayaramerin,>= 60,F,2021-01-01,2021-01-20,1
 beni,guayaramerin,>= 60,F,2021-01-01,2021-01-21,2
 beni,guayaramerin,>= 60,F,2021-02-01,2021-02-08,1
 beni,guayaramerin,>= 60,F,2021-02-01,2021-03-01,1
+beni,guayaramerin,>= 60,F,2021-02-01,2023-03-27,2
 beni,guayaramerin,>= 60,F,2021-03-01,2021-03-11,1
 beni,guayaramerin,>= 60,F,2021-03-01,2021-03-25,1
 beni,guayaramerin,>= 60,F,2021-03-01,2021-03-30,3
@@ -70,7 +75,9 @@ beni,guayaramerin,>= 60,M,2020-07-01,2020-12-28,2
 beni,guayaramerin,>= 60,M,2020-07-01,2021-01-11,-2
 beni,guayaramerin,>= 60,M,2021-01-01,2021-01-11,1
 beni,guayaramerin,>= 60,M,2021-01-01,2021-01-29,1
+beni,guayaramerin,>= 60,M,2021-01-01,2023-03-27,5
 beni,guayaramerin,>= 60,M,2021-02-01,2021-02-25,1
+beni,guayaramerin,>= 60,M,2021-02-01,2023-03-27,2
 beni,guayaramerin,>= 60,M,2021-03-01,2021-03-16,1
 beni,guayaramerin,>= 60,M,2021-03-01,2021-03-24,1
 beni,guayaramerin,>= 60,M,2021-03-01,2021-03-30,2
