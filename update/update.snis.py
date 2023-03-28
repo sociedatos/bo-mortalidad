@@ -15,7 +15,7 @@ import perkins
 import perkins.requests
 import perkins.input.snis
 
-YEAR = '2022'
+YEAR = '2023'
 BASE_URL = 'https://estadisticas.minsalud.gob.bo'
 URL = BASE_URL + '/Reportes_Dinamicos/WF_Reporte_Gral_{}.aspx'.format(YEAR)
 
