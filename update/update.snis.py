@@ -15,7 +15,12 @@ import perkins
 import perkins.requests
 import perkins.input.snis
 
-YEAR = '2023'
+import requests
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
+
+requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
+
+YEAR = '2024'
 BASE_URL = 'https://estadisticas.minsalud.gob.bo'
 URL = BASE_URL + '/Reportes_Dinamicos/WF_Reporte_Gral_{}.aspx'.format(YEAR)
 
