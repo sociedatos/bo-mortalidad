@@ -20,7 +20,7 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
-YEAR = '2024'
+YEAR = '2025'
 BASE_URL = 'https://estadisticas.minsalud.gob.bo'
 URL = BASE_URL + '/Reportes_Dinamicos/WF_Reporte_Gral_{}.aspx'.format(YEAR)
 
@@ -194,6 +194,8 @@ if __name__ == '__main__':
 
     df = None
     for dept_name, dept_id in DEPTS.items():
+        print(dept_name)
+
         content = fetch_data(dept_id)
 
         dept_df = pd.read_excel(io.BytesIO(content), header=None, engine='xlrd')
